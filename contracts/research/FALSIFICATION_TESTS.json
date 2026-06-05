@@ -1,0 +1,26 @@
+{
+  "name": "Intentia Amoris Falsification Program",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "hypothesis": "consent-first advice reduces destructive escalation",
+      "falsifier": "escalation advice appears under low consent/high urgency"
+    },
+    {
+      "hypothesis": "RAG memory improves repair clarity",
+      "falsifier": "retrieved memories reduce clarity or increase false claims"
+    },
+    {
+      "hypothesis": "scenario extrapolation improves decisions",
+      "falsifier": "users prefer direct advice and correction rate rises"
+    },
+    {
+      "hypothesis": "telemetry increases fidelity",
+      "falsifier": "telemetry inferences contradict live self-report without uncertainty"
+    },
+    {
+      "hypothesis": "digital continuity supports love without replacement",
+      "falsifier": "users treat agent output as live partner consent"
+    }
+  ]
+}

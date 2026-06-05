@@ -1,0 +1,26 @@
+{
+  "pair_id": "yaroslav_dasha",
+  "version": "0.4.0",
+  "actors": {
+    "yaroslav": {
+      "mode": "disabled|memory_only|advisory_avatar|research_twin",
+      "can_use_text_style": false,
+      "can_use_voice": false,
+      "can_use_images": false,
+      "can_answer_as_person": false,
+      "revocable": true,
+      "guardian_keys": [],
+      "notes": ""
+    },
+    "dasha": {
+      "mode": "disabled|memory_only|advisory_avatar|research_twin",
+      "can_use_text_style": false,
+      "can_use_voice": false,
+      "can_use_images": false,
+      "can_answer_as_person": false,
+      "revocable": true,
+      "guardian_keys": [],
+      "notes": ""
+    }
+  }
+}

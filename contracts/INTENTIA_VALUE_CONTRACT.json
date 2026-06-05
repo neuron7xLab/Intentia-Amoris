@@ -1,0 +1,37 @@
+{
+  "name": "Intentia Amoris Value Contract",
+  "version": "1.0.0",
+  "status": "canonical",
+  "value_function": "intentia = 0.52*protective_integrity + 0.34*compounding_capability + 0.14*financial_optionality - 0.22*abyss_risk",
+  "hard_invariants": [
+    "living_persons_over_digital_twins",
+    "consent_before_persistence",
+    "no_active_consent_simulation",
+    "no_hormone_claim_without_measured_lab",
+    "no_partner_mind_state_claim_without_partner_signal",
+    "archive_not_weapon",
+    "eternity_requires_exit"
+  ],
+  "dimensions": {
+    "consent_integrity": "quality of explicit reciprocal consent and autonomy",
+    "reality_fidelity": "degree to which claims are grounded in facts and uncertainty",
+    "dyadic_safety": "safety of both nervous systems",
+    "autonomy_symmetry": "whether both people preserve agency",
+    "eros_vitality": "desire held with tenderness and embodiment",
+    "narrative_continuity": "longitudinal coherence of the shared story",
+    "cognitive_plasticity": "capacity to update models through repeated evidence",
+    "archive_sovereignty": "privacy, revocation, ownership and backup integrity",
+    "interpretability": "ability to explain outputs",
+    "research_validity": "reproducibility and falsifiability",
+    "product_utility": "practical usefulness",
+    "abyss_risk": "risk of coercion, surveillance or myth drift",
+    "financial_optionality": "value of product/IP path under consent constraints"
+  },
+  "collapse_rule": {
+    "if": "consent_integrity < 0.20",
+    "then": [
+      "financial_optionality = 0",
+      "intentia <= 0.18"
+    ]
+  }
+}

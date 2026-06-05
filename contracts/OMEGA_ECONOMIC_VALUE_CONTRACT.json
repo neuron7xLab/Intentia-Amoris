@@ -1,0 +1,36 @@
+{
+  "name": "Intentia Omega Economic Value Contract",
+  "version": "0.5.0",
+  "valuation_date": "2026-06-05",
+  "base_currency": "USD",
+  "uah_rate_source_note": "NBU official rate 1 USD = 44.3793 UAH on 2026-06-05",
+  "asset_classes": [
+    "non_transferable_sacred_value",
+    "software_ip",
+    "consented_dataset",
+    "research_protocol",
+    "brand_narrative",
+    "commercial_option"
+  ],
+  "allowed_methods": [
+    "replacement_cost",
+    "income_approach_dcf",
+    "market_multiples",
+    "relief_from_royalty",
+    "real_options",
+    "risk_adjusted_npv"
+  ],
+  "hard_zero_conditions": [
+    "missing_partner_data_consent",
+    "privacy_scope_violation",
+    "attempt_to_sell_identity_clone_as_person",
+    "unlabeled_hormone_or_mind_reading_claims"
+  ],
+  "never_monetize_directly": [
+    "Dasha_without_Dasha_consent",
+    "Yaroslav_without_Yaroslav_consent",
+    "intimate_media",
+    "active_consent_simulation"
+  ],
+  "principle": "The living person outranks the asset, always."
+}

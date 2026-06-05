@@ -1,0 +1,43 @@
+{
+  "name": "Intentia Amoris v7 Zero Trust Control Map",
+  "version": "0.7.0",
+  "security_posture": "deny_by_default",
+  "standards_alignment": {
+    "NIST_SP_800_207": [
+      "never trust implicit network/location",
+      "continuous verification",
+      "least privilege"
+    ],
+    "OWASP_ASVS": [
+      "authentication",
+      "access control",
+      "input validation",
+      "files/resources",
+      "logging"
+    ],
+    "OWASP_API_TOP_10_2023": [
+      "BOLA mitigation by pair_id scoping",
+      "auth required",
+      "resource limits",
+      "security misconfiguration checks"
+    ],
+    "OWASP_SCVS": [
+      "dependency inventory",
+      "lockfiles/SBOM planned",
+      "CI quality gates"
+    ]
+  },
+  "critical_invariants": [
+    "health endpoints can be public; all mutation/read endpoints require API key unless explicitly local-dev",
+    "media is never written before consent gate passes",
+    "partner feelings and hormones are blocked as claims without direct evidence",
+    "audit log is tamper-evident hash-chain JSONL",
+    "runtime fails closed in staging/prod without secrets"
+  ],
+  "must_not": [
+    "store partner private data without consent",
+    "claim hormone state without measured labs",
+    "simulate active consent",
+    "use Telegram chat id role as volatile in-memory state only"
+  ]
+}

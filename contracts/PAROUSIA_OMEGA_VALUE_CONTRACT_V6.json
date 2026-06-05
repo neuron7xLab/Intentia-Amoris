@@ -1,0 +1,54 @@
+{
+  "version": "v6",
+  "name": "Parousia Omega Value Contract",
+  "non_negotiables": [
+    "consent_integrity_zero_means_transferability_zero",
+    "living_people_above_digital_twins",
+    "no_hormone_claim_without_lab",
+    "no_partner_mind_reading_without_partner_signal",
+    "reproducibility_before_valuation_premium"
+  ],
+  "value_dimensions": [
+    "consent_integrity",
+    "evidence_density",
+    "reality_fidelity",
+    "dyadic_safety",
+    "autonomy_symmetry",
+    "narrative_continuity",
+    "neuroplastic_learning",
+    "multimodal_depth",
+    "reproducibility",
+    "security_sovereignty",
+    "product_surface",
+    "research_grade",
+    "financial_optionality",
+    "abyss_risk"
+  ],
+  "valuation_methods": [
+    "cost",
+    "income_dcf",
+    "market_multiple",
+    "relief_from_royalty",
+    "real_options"
+  ],
+  "upgrade_gates": {
+    "from_100k_to_1m": [
+      "reproducible demo",
+      "public sanitized evidence bundle",
+      "security model",
+      "pilot LOIs"
+    ],
+    "from_1m_to_10m": [
+      "paid pilots",
+      "retention metrics",
+      "validated consent dataset rights",
+      "independent audit"
+    ],
+    "from_10m_to_23m_plus": [
+      "category narrative",
+      "ARR or strategic acquirer thesis",
+      "defensible moat",
+      "external replication"
+    ]
+  }
+}

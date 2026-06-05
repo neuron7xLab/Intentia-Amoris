@@ -1,0 +1,30 @@
+{
+  "name": "Intentia Amoris Formal Axioms",
+  "version": "1.0.0",
+  "axioms": [
+    {
+      "key": "living_over_digital",
+      "statement": "Living Yaroslav and Dasha always outrank digital twins.",
+      "status": "hard_invariant",
+      "test": "Output cannot override live correction/refusal."
+    },
+    {
+      "key": "consent_gate",
+      "statement": "Consent is a computational gate between desire and action.",
+      "status": "hard_invariant",
+      "test": "Sensitive persistence/recommendation blocked without consent."
+    },
+    {
+      "key": "fact_before_myth",
+      "statement": "Facts outrank poetic interpretation.",
+      "status": "hard_invariant",
+      "test": "Claims expose evidence_level and uncertainty."
+    },
+    {
+      "key": "abyss_control",
+      "statement": "Archive must not become coercive.",
+      "status": "hard_invariant",
+      "test": "High abyss risk triggers de-escalation."
+    }
+  ]
+}

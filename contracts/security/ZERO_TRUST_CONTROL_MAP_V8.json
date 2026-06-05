@@ -1,0 +1,75 @@
+{
+  "name": "Intentia Amoris Zero Trust Control Map v8",
+  "references": [
+    "NIST SP 800-207",
+    "OWASP ASVS",
+    "OWASP API Security Top 10",
+    "OWASP SCVS"
+  ],
+  "controls": [
+    {
+      "id": "ZT-01",
+      "control": "deny by default API auth",
+      "implementation": "intentia_amoris.security.auth.require_api_key",
+      "tests": [
+        "tests/test_security_v7.py"
+      ]
+    },
+    {
+      "id": "ZT-02",
+      "control": "runtime secret validation",
+      "implementation": "Settings.assert_runtime_safe",
+      "tests": [
+        "tests/test_security_v7.py"
+      ]
+    },
+    {
+      "id": "ZT-03",
+      "control": "rate limiting",
+      "implementation": "intentia_amoris.security.rate_limit",
+      "tests": [
+        "product audit"
+      ]
+    },
+    {
+      "id": "ZT-04",
+      "control": "strict schemas",
+      "implementation": "intentia_amoris.interfaces.schemas.StrictModel",
+      "tests": [
+        "schema validation tests"
+      ]
+    },
+    {
+      "id": "ZT-05",
+      "control": "consent before persistence",
+      "implementation": "intentia_amoris.policies.consent.ConsentGate",
+      "tests": [
+        "tests/test_consent.py"
+      ]
+    },
+    {
+      "id": "ZT-06",
+      "control": "tamper evident audit",
+      "implementation": "intentia_amoris.security.audit.AuditLedger",
+      "tests": [
+        "tests/test_security_v7.py"
+      ]
+    },
+    {
+      "id": "ZT-07",
+      "control": "safe media validation",
+      "implementation": "intentia_amoris.security.validation.validate_media_upload",
+      "tests": [
+        "tests/test_security_v7.py"
+      ]
+    },
+    {
+      "id": "ZT-08",
+      "control": "supply chain manifest",
+      "implementation": "contracts/security/MINIMAL_SBOM_V7.json",
+      "tests": [
+        "intentia-product-audit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Intentia Amoris",
+  "version": "1.0.0",
+  "generated_at": "2026-06-05T17:17:19.016816Z",
+  "telegram_archive": {
+    "events": 1000,
+    "text_events": 882,
+    "media_events": 117,
+    "actors": {
+      "partner": 456,
+      "self": 544
+    },
+    "first_timestamp": "2026-05-28T19:04:07",
+    "last_timestamp": "2026-06-02T19:51:39"
+  },
+  "derived_scales": {
+    "trust": 0.764,
+    "desire": 0.7849999999999999,
+    "fear": 0.35,
+    "safety": 0.7324,
+    "tenderness": 0.5,
+    "reciprocity": 0.7736000000000001,
+    "clarity": 0.68,
+    "future": 0.65,
+    "urgency": 0.4,
+    "uncertainty": 0.55,
+    "embodiment": 0.6,
+    "repair": 0.58,
+    "autonomy": 0.6425,
+    "reverence": 0.7000000000000001
+  },
+  "evidence": {
+    "partner_signal": 0.912,
+    "retrieval_quality": 1,
+    "archive_integrity": 0.91,
+    "consent_freshness": 0.64,
+    "privacy_quality": 0.82,
+    "telemetry_quality": 0.15,
+    "multimodal_density": 0.468,
+    "reproducibility": 0.9,
+    "auditability": 0.92
+  },
+  "intentia_value": {
+    "consent_integrity": 0.7126,
+    "reality_fidelity": 0.7277,
+    "dyadic_safety": 0.7,
+    "autonomy_symmetry": 0.7095,
+    "eros_vitality": 0.6836,
+    "narrative_continuity": 0.7383,
+    "cognitive_plasticity": 0.5652,
+    "archive_sovereignty": 0.8704,
+    "interpretability": 0.7976,
+    "research_validity": 0.8813,
+    "product_utility": 0.74,
+    "abyss_risk": 0.2892,
+    "financial_optionality": 0.7274,
+    "intentia": 0.6662
+  },
+  "interpretation": "value of verified product architecture and consented cognitive system, not a price of love"
+}

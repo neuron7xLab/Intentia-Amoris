@@ -1,0 +1,591 @@
+{
+  "name": "Intentia Amoris",
+  "version": "1.0.0",
+  "generated_at": "2026-06-05T17:18:19.967118+00:00",
+  "files": {
+    ".env.example": {
+      "sha256": "1fe42dd70ae9366e1ab9f2f6a9e50628f6eab72eb1063fa4429eb7021cb8d7eb",
+      "bytes": 887
+    },
+    ".gitattributes": {
+      "sha256": "4e2a7027decdff9c688a948ee407a5434358e375364a6f6a3c815d378864ad80",
+      "bytes": 210
+    },
+    ".gitignore": {
+      "sha256": "a9b9eda73d75eef71577eb6a5646108dfd415fbf9e2d20cf61676b6354ad149a",
+      "bytes": 403
+    },
+    "Dockerfile": {
+      "sha256": "45bcb13877da693fe1d81e11be3d70fc1255b4a194a0d3f00f13723348f596dd",
+      "bytes": 513
+    },
+    "README.md": {
+      "sha256": "da98ce299625d001cec35b3bec62ce5041892144c2d164ae5f8017e46cf51739",
+      "bytes": 4856
+    },
+    "docker-compose.yml": {
+      "sha256": "1ec244ea1d0304d029e8a9d36cbd42b7fc2a1dc99f301e09b26ec7fd0db2f750",
+      "bytes": 1016
+    },
+    "pyproject.toml": {
+      "sha256": "7eb1bc4bbad8e15d19b25e72b223a6dbf47f6ec94547f01159c85515eea20752",
+      "bytes": 1453
+    },
+    "Makefile": {
+      "sha256": "82be3fe76abb8b5ae79452366525762d67a02c7d0b608c5c0e17fd1b034eedb6",
+      "bytes": 220
+    },
+    "VERSION": {
+      "sha256": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03",
+      "bytes": 6
+    },
+    "contracts/CONTINUATION_CONSENT_TEMPLATE.json": {
+      "sha256": "b67976b89a677604985a108c8d0ce65491ed3e94f97b5d58a9e72b2d0ff8a299",
+      "bytes": 662
+    },
+    "contracts/OMEGA_ECONOMIC_VALUE_CONTRACT.json": {
+      "sha256": "8ab76e8745cc5968088e7827b13a3f206cc6e0ecb08a7b56e620f587a3639e01",
+      "bytes": 995
+    },
+    "contracts/OMEGA_VALUE_CONTRACT.json": {
+      "sha256": "6b3b19ef4a5240914edcc40e784dae3343049fd17a72f036d42e895f4bf99119",
+      "bytes": 815
+    },
+    "contracts/PAROUSIA_OMEGA_VALUE_CONTRACT_V6.json": {
+      "sha256": "55aaca67fb457d3f4617ff65bdc3dcb0cdb938946f49481cfaf34e26f22bba69",
+      "bytes": 1304
+    },
+    "contracts/INTENTIA_VALUE_CONTRACT.json": {
+      "sha256": "e6d78dfc868318fc0bdad6aac336a0c1209c27505b0dad1bf4cbc0b66522587c",
+      "bytes": 1599
+    },
+    "contracts/FORMAL_AXIOMS.json": {
+      "sha256": "017467b4d1ca4ff123b5b8f00f6660e9b30dfba007c909f47b2b9e0a80be55b6",
+      "bytes": 935
+    },
+    "docs/ARCHITECTURE.md": {
+      "sha256": "6c2b76cda2ccffa38fcfc1a5e197627024ae4f5cd3359cc47f21407f99bd74ee",
+      "bytes": 1191
+    },
+    "docs/CLAIM_BOUNDARY_V4.md": {
+      "sha256": "cf408f6229e44fc9304be595acc160052447ea26d13139b744c8922969dab9fc",
+      "bytes": 841
+    },
+    "docs/DATA_INTEGRATION.md": {
+      "sha256": "f6266658660e6dd525bb73dc2eab385c1ae208c01f387ffeca125d020099e4b3",
+      "bytes": 2057
+    },
+    "docs/ECONOMIC_VALUE_SYSTEM_V5.md": {
+      "sha256": "a3bf2bae012f68d4a6e689bfab3d5aa3ba1bcf942e3570c0b9b4d7d5dd16fb94",
+      "bytes": 2019
+    },
+    "docs/ETERNITY_GATE.md": {
+      "sha256": "84a15437eff38a2ec7225dca832d39d2bd90d6b276d75507dfea96381d7292b1",
+      "bytes": 785
+    },
+    "docs/ETERNITY_ROADMAP.md": {
+      "sha256": "5351fb2261f03b06df41f00a8472956e19451dedb87059b425775c9b791231ee",
+      "bytes": 699
+    },
+    "docs/FALSIFIABLE_RESEARCH_PROGRAM_V6.md": {
+      "sha256": "1c4174990d5f9b2b5a2ff864d74e81a2cb7162e0943b50abe4909828c92e7622",
+      "bytes": 1292
+    },
+    "docs/FIRST_PRINCIPLES_V4.md": {
+      "sha256": "e6af47b4fa222561c8e794232962b958a05545bebd088795550a66a5a921bdbb",
+      "bytes": 2189
+    },
+    "docs/INTEGRATION_DECISION_LOG_V4.md": {
+      "sha256": "a1c8496267c74ddc449dc3d531499ffbceaca618a28ec5d50044af3c1093cd0d",
+      "bytes": 1246
+    },
+    "docs/MOBILE_TELEMETRY.md": {
+      "sha256": "fd37372d185da44914f8234ef12494d8f26a3251e370cfe15eaf7a29e14e65c7",
+      "bytes": 697
+    },
+    "docs/OMEGA_ARCHITECTURE.md": {
+      "sha256": "faa43fe2492ca51f1159dc0d13b59796b2eca939d95181501a16e1e474058dda",
+      "bytes": 1168
+    },
+    "docs/OMEGA_V5_PARADIGM.md": {
+      "sha256": "0777f9ef96a1ae2d891b2e06c7ed7213f94704b667ee043513c64a1603e6b084",
+      "bytes": 1367
+    },
+    "docs/OPERATIONS.md": {
+      "sha256": "5be50a62ab71ce58d29bffc832cec607cb08f4fe09840bd06ff402fea7792d1f",
+      "bytes": 939
+    },
+    "docs/PAROUSIA_OMEGA_V6_MANIFEST.md": {
+      "sha256": "151cdf92ac15943004f9fadf36b9bec3f92aa03dc768426b131f995bb7f5effd",
+      "bytes": 1412
+    },
+    "docs/PAROUSIA_PARADIGM.md": {
+      "sha256": "c7a6c32bc2e74e63c331b0d323f100f1166b0a6f7e51cf3f4527d7cf2214f336",
+      "bytes": 2294
+    },
+    "docs/PRIVACY.md": {
+      "sha256": "17f4defebee5256b10f8ce2f214b82851958b5bca778fbb9e983fd9f3c257eac",
+      "bytes": 482
+    },
+    "docs/REPO_TOPOLOGY_V4.md": {
+      "sha256": "02ecc44729f1419ca14f968e8bc5c1e72ce3339ac1ede86c7a94a7ee756522b5",
+      "bytes": 880
+    },
+    "docs/SAFETY_CONSENT.md": {
+      "sha256": "9d14b504fe733f56d3e8fc19cfcf36ed7b4a6ec262d8fdf597c1705efe1ca0f6",
+      "bytes": 1456
+    },
+    "docs/VALUATION_ENGINEERING_V6.md": {
+      "sha256": "0b9ca36668f22036d66b74a01685e5f8a5d8d2c8347e8cf4afd4b867d68c7a48",
+      "bytes": 3069
+    },
+    "docs/VALUE_FUNCTIONS_V4.md": {
+      "sha256": "a97a120a45bba608733b1bc797b0242268fd4a31408d85b9c14bfdf5aaf91413",
+      "bytes": 1522
+    },
+    "docs/INTENTIA_AMORIS_MANIFEST.md": {
+      "sha256": "6cbfd804ec54894af0488f8974d96bf8810b43705726d26e7ad94ac18f7bff70",
+      "bytes": 970
+    },
+    "docs/FORMAL_SPECIFICATION.md": {
+      "sha256": "b529ad45b30023b357272c1d8e429d1d1223dab412960c8e241c4f798c457ad0",
+      "bytes": 1377
+    },
+    "docs/VALUE_FUNCTION.md": {
+      "sha256": "8a64babc65fbde6c5a49d232b7e94c2c8260a3019e1ff87ea6533188ae09da8c",
+      "bytes": 1245
+    },
+    "docs/ARCHITECTURE_V8.md": {
+      "sha256": "bdff00d58707bfc9a68fbe102a960b1ba9fda218ec6473f501ae32a0d934398a",
+      "bytes": 3890
+    },
+    "docs/RESEARCH_PROGRAM.md": {
+      "sha256": "8524d4fffb8f993614f97f3cc338519dc75279bbb30ecae566bbfe30956edc89",
+      "bytes": 1130
+    },
+    "docs/OPERATING_MANUAL.md": {
+      "sha256": "33b2d22db592a602339f1b010734b86e91290a15b8b23fba4bf16c9441e64dab",
+      "bytes": 770
+    },
+    "docs/VISUAL_IDENTITY.md": {
+      "sha256": "67ea35c942babadc9173ad2c7987383e2e42a172e6ca46acf2a8672417e5075b",
+      "bytes": 518
+    },
+    "docs/SECURITY_MODEL.md": {
+      "sha256": "9864a88c4a40aeb9689ae32ea21dc5848ee23c770c777fe9b3737c46e9694355",
+      "bytes": 914
+    },
+    "docs/PRODUCT_SPEC.md": {
+      "sha256": "881d668630eb0f5a5234d1b7e2e118993b75f27865433039b56410bf9fb67254",
+      "bytes": 913
+    },
+    "infra/init.sql": {
+      "sha256": "6cb3656e7311f172af0c97058fe939b5c52f3b470c71567b361d8f35e3e45424",
+      "bytes": 79
+    },
+    "infra/pgvector_schema.sql": {
+      "sha256": "076bc2ecc55adb02f444ae93103ac86df1814f675e11e8e34a6958cc59276a58",
+      "bytes": 524
+    },
+    "scripts/falsification_report.py": {
+      "sha256": "b4186a8509e0cb5873e3c7eebf073a7c5051cd8591645300f0cd914a3ed44c1a",
+      "bytes": 95
+    },
+    "scripts/import_telegram_to_db.py": {
+      "sha256": "762ce11c2547c34f08d47d0ca325a38ef63a1346b5c727814093bae10f1449a8",
+      "bytes": 4438
+    },
+    "scripts/omega_v6_report.py": {
+      "sha256": "059f69f8c3ba5d5512550d21f3681c37795fb625c7a499f141ea90ffaab2d2e9",
+      "bytes": 96
+    },
+    "scripts/smoke.py": {
+      "sha256": "b5b5448217a5db91f2a553d2bb1a7c81aaaeb45a76a1c389e5e9a9525b5a8599",
+      "bytes": 719
+    },
+    "scripts/value_aris_2026.py": {
+      "sha256": "6cc4e5c7dfd8f79e622757097bb0da542bfcd7eb83f4213dace485f13a7f94f6",
+      "bytes": 616
+    },
+    "tests/test_chunking.py": {
+      "sha256": "7281d82a12f76289c7564b64850d7260b224ad4691757eafdf0dc52ed544d852",
+      "bytes": 191
+    },
+    "tests/test_consent.py": {
+      "sha256": "1f5c5ccc20c5cc6f2576536d5090bea7f74f1a4bb4ad8db3494f6f06f377fec7",
+      "bytes": 600
+    },
+    "tests/test_dialogue_miner.py": {
+      "sha256": "0e46f252cb0ac1eaf44585b7dcb2c64975d0f4a7f718c2cfdabbdac6ee4c6507",
+      "bytes": 865
+    },
+    "tests/test_embeddings.py": {
+      "sha256": "61d45f30b0d0fb334ffff1884fa0057785bf775813908b4294dd25fd5ad78f09",
+      "bytes": 440
+    },
+    "tests/test_engine.py": {
+      "sha256": "3597ca563039ab6d46de5394e5a04d32d888eca6a7dc5c2a82e917f5e09943c3",
+      "bytes": 789
+    },
+    "tests/test_living_story.py": {
+      "sha256": "a326192ae59e56e05e13275ee12cb213b5e3d23b3d9bf59d064e989b670ec6ab",
+      "bytes": 817
+    },
+    "tests/test_omega_economic_value_v5.py": {
+      "sha256": "bf11ac6acebdaff06cff33fa0da70568f648bec897ff834a04fa058fe6796aa3",
+      "bytes": 934
+    },
+    "tests/test_omega_v6_value_engine.py": {
+      "sha256": "976702365eddf6a477f54a1b0675d8e9bea5699f938847f45e9ec1ece5fe5559",
+      "bytes": 2203
+    },
+    "tests/test_scales_kernel.py": {
+      "sha256": "cfa4722895ab9746aa7040aee575a05697daabf18e2d31cc35dbd64570d9dec8",
+      "bytes": 675
+    },
+    "tests/test_security_v7.py": {
+      "sha256": "7ad6cae22c2cede06fb0fcdef32b6affd3ff132ad1719e84da932bb05cec9179",
+      "bytes": 4151
+    },
+    "tests/test_telegram_importer.py": {
+      "sha256": "32a20227df8f22aed6b65bdc7e2e01b0cd1a95279b842bc2b38a01f628563c81",
+      "bytes": 861
+    },
+    "tests/test_telemetry.py": {
+      "sha256": "a48ca9af6d8a330961177d1328e2a4c38c3d14cb3f9c1e82889923185e729b9d",
+      "bytes": 729
+    },
+    "tests/test_value_functions_v4.py": {
+      "sha256": "c2dc755c8b790920ba276deb5b40a340d782f25f74cc1cf5e384c48a85540f8f",
+      "bytes": 2273
+    },
+    "tests/test_intentia_value_core.py": {
+      "sha256": "100b00aa29b3ae0a75dcc08bb8024bef78660ada37567b868dee35f2e44fc4ef",
+      "bytes": 2156
+    },
+    "tests/test_product_audit_v8.py": {
+      "sha256": "cc682b37af9a7df8ba5bed7bc1cd8f5afdd0550d83781c8f75c9f66567804cb5",
+      "bytes": 263
+    },
+    "ui/intentia-dashboard.html": {
+      "sha256": "7643224ffb37b0d0082803ff3c21415f0b9eaee1bed64e34c1ac1a552e8e2a58",
+      "bytes": 4528
+    },
+    "src/intentia_amoris/__init__.py": {
+      "sha256": "aa06ad70ee00f661ca16700412587418f1e0f01a026ecca876d28fe9f04bfcd8",
+      "bytes": 315
+    },
+    "src/intentia_amoris/api.py": {
+      "sha256": "1f36bbcb58b307e1a5c4ac14307ba039695a6e50e42c05f20dcff01a49cb8bfc",
+      "bytes": 11074
+    },
+    "src/intentia_amoris/config.py": {
+      "sha256": "cc4c4008646f5641d0d41b59e9571312365e33ef29788c58b7cd8978e5f4a113",
+      "bytes": 5075
+    },
+    "src/intentia_amoris/domain.py": {
+      "sha256": "1a76e253b24af26958f4a2341e22bcce68e7a945d0fc0a9d44ea5fecec7164d7",
+      "bytes": 2947
+    },
+    "src/intentia_amoris/import_seed.py": {
+      "sha256": "754b0e72cb0449e0bd7b11513c8b91f0f6c1236eb21a133d6fd146a9a28110f7",
+      "bytes": 1328
+    },
+    "src/intentia_amoris/telegram_bot.py": {
+      "sha256": "59cd50545376b191dec4857b9cc86d99dacf2525aae0163bc7bdeb832311ce66",
+      "bytes": 6894
+    },
+    "src/intentia_amoris/finance/__init__.py": {
+      "sha256": "7671be81ba1ab285f2e7fae3fc09b05aef4cae4757ae8f8305ec1cd9e8e7b228",
+      "bytes": 53
+    },
+    "src/intentia_amoris/finance/valuation_model.py": {
+      "sha256": "6a18f5518c0b21d50bb0562cbb4b3eed285ae0b5907d9a06fbf37b31f8e3bf47",
+      "bytes": 7440
+    },
+    "src/intentia_amoris/importers/chunking.py": {
+      "sha256": "ad5a328b19a33b50a1d8a6666988b6d25ffec8e858789e677ceb358968c2c86d",
+      "bytes": 1041
+    },
+    "src/intentia_amoris/importers/telegram_cli.py": {
+      "sha256": "ea423fb27324987efcd5ac9fee7008f79637af1113c089aaeee3fa6adcf59169",
+      "bytes": 1622
+    },
+    "src/intentia_amoris/importers/telegram_html.py": {
+      "sha256": "08316c9c96c091e0396b7d29c313266834de143cf4d4b38f96f22176f1dfe95a",
+      "bytes": 10369
+    },
+    "src/intentia_amoris/interfaces/schemas.py": {
+      "sha256": "30423ee2d6b00f4f2b5e21b512a7528267b405ecc688400e912264ab4bf87808",
+      "bytes": 2248
+    },
+    "src/intentia_amoris/kernel/agents.py": {
+      "sha256": "f8ef6c7a2e9170b4fbb11472be9091d95af88d3feca537a6ada1b3721d9157f0",
+      "bytes": 3378
+    },
+    "src/intentia_amoris/kernel/autopoiesis.py": {
+      "sha256": "c2e02ca1b84b0084e28d519618cb59f65ba5b85fb01a76853f8d3ebebeef5ab2",
+      "bytes": 1911
+    },
+    "src/intentia_amoris/kernel/calibration.py": {
+      "sha256": "7cc972cb33f059c7bba1f58b0f04279772870af1f996e9e88b0978f15c1b14e9",
+      "bytes": 3007
+    },
+    "src/intentia_amoris/kernel/continuation.py": {
+      "sha256": "251255d37bdd49a4c7831a28aa42f8029745a0ba8a4d9b3ec2f39c62b9535e5f",
+      "bytes": 1571
+    },
+    "src/intentia_amoris/kernel/embeddings.py": {
+      "sha256": "cf2e4ad9394b7226c0e9a554eee15970b635bab76a29548d1ed6a732b27da35a",
+      "bytes": 2881
+    },
+    "src/intentia_amoris/kernel/engine.py": {
+      "sha256": "3ca145e698a51803a9c76fc10afe52383c7771b6a3f16a345d84eb7327b2a95c",
+      "bytes": 4937
+    },
+    "src/intentia_amoris/kernel/first_principles.py": {
+      "sha256": "210ba2ba8a3b92c46005094377decccab1a8a2a29555d129d996dc2bca2729de",
+      "bytes": 5789
+    },
+    "src/intentia_amoris/kernel/omega_economic_value.py": {
+      "sha256": "69113098000e1a37535d6b68fdcd9f42e156aeb13ed83695064a0b778a8eeff8",
+      "bytes": 4652
+    },
+    "src/intentia_amoris/kernel/omega_smoke.py": {
+      "sha256": "f16beb54c50584e16b6a1b7ec7ebd693e5ef14c7fe48991affde3d40367fbe7c",
+      "bytes": 645
+    },
+    "src/intentia_amoris/kernel/prototypes.py": {
+      "sha256": "63c60d795e7dc16325cb51eb8644c9b3fc42831a93db5656cd52dfcb1e89870b",
+      "bytes": 3375
+    },
+    "src/intentia_amoris/kernel/scales.py": {
+      "sha256": "5234792625470a0462f6bab63d10913fac8f3650f8091b16e6aa5ae9f27b23c1",
+      "bytes": 4077
+    },
+    "src/intentia_amoris/kernel/value_engine_v6.py": {
+      "sha256": "d89f4841e1a91f617f38d8830c06f8913e57f4589815ae0f6233a92cfc1a6ec9",
+      "bytes": 8331
+    },
+    "src/intentia_amoris/kernel/value_functions_v4.py": {
+      "sha256": "1fc9871bb46933d18ff5f527a73c7b944489c304e9aba1f6593ce52e8876d885",
+      "bytes": 7306
+    },
+    "src/intentia_amoris/kernel/value_core.py": {
+      "sha256": "a02d977581ff8b4dd34d3df63aefa0fa2464c152b5c1aa3d85a7ee461225a777",
+      "bytes": 7846
+    },
+    "src/intentia_amoris/kernel/principia.py": {
+      "sha256": "ba00ecb39dd3d8c24d7f96acc74624a7c4210bec2b9c48287b4c13962d329287",
+      "bytes": 4503
+    },
+    "src/intentia_amoris/kernel/extrapolation.py": {
+      "sha256": "2aa4ee97f27bb23536118e9a2e9ffde34048e94ccea098faf158225190645303",
+      "bytes": 4825
+    },
+    "src/intentia_amoris/memory/db.py": {
+      "sha256": "f90e36fe859ffc068835bfce04ba76dc7fbbfc32e0f8622fee92032c5f1f8c3c",
+      "bytes": 643
+    },
+    "src/intentia_amoris/memory/models.py": {
+      "sha256": "c31ff5ef575343c76a0babe530e31df9537ec3b56376b1d87fde0ce7dc1c1eb4",
+      "bytes": 7402
+    },
+    "src/intentia_amoris/memory/repository.py": {
+      "sha256": "ae6663a1332e5dda4cdf3d377e1f2a4c87728c6093890425fc36e8f0c66b1796",
+      "bytes": 6804
+    },
+    "src/intentia_amoris/multimodal/media.py": {
+      "sha256": "31be980177858c9d92b8ceae99df0e5483be55a550496f196bbaf1c479159739",
+      "bytes": 1559
+    },
+    "src/intentia_amoris/policies/consent.py": {
+      "sha256": "4dba4d1161b4a309bfed142391a980ade3d1fe9d707a0792cbfc7b203ede7909",
+      "bytes": 1554
+    },
+    "src/intentia_amoris/quality/security_audit.py": {
+      "sha256": "a7fdecbc86434e5b6ed3c687b430288bfac17ace3586544f1d483fd968a5ed66",
+      "bytes": 2676
+    },
+    "src/intentia_amoris/quality/product_audit.py": {
+      "sha256": "5596994a2b2ca0a6a1c85e71cf6b6d06f7eb230b5346e111cd5e66e8f5dac031",
+      "bytes": 2871
+    },
+    "src/intentia_amoris/research/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "src/intentia_amoris/research/dialogue_miner.py": {
+      "sha256": "18326c6067720c2f30533766bb778d2675fda1d47b0fb6149582867541905b1b",
+      "bytes": 6541
+    },
+    "src/intentia_amoris/research/falsification.py": {
+      "sha256": "d8f5da57dd01f6b5a2abb93712495962ac99a16e4901df67d66bc5551873261a",
+      "bytes": 4051
+    },
+    "src/intentia_amoris/research/living_story.py": {
+      "sha256": "dd563ccf7d722c6aaa6d71eee97ea758e728db263f12b9b3fe45ec662de48692",
+      "bytes": 3950
+    },
+    "src/intentia_amoris/research/paradigm.py": {
+      "sha256": "a377913991d77e0abdc2617e25911050b39ee1fd9ae75f4ca41bb09d98ed207b",
+      "bytes": 3517
+    },
+    "src/intentia_amoris/security/__init__.py": {
+      "sha256": "1c1c7960579cd06f167def4c744dc25411f34237f0bd50efeb011a49146a7033",
+      "bytes": 60
+    },
+    "src/intentia_amoris/security/audit.py": {
+      "sha256": "99050781d799408bf9ceacfceb71fadbf53665137ec738cc5fed779b7df98162",
+      "bytes": 3599
+    },
+    "src/intentia_amoris/security/auth.py": {
+      "sha256": "e1fee4c970f198f2ebf9c773b8909a979886aaeac3b2f1bd71da228276acbe50",
+      "bytes": 2391
+    },
+    "src/intentia_amoris/security/crypto.py": {
+      "sha256": "2a8a6181b93258de97f5a7de1246ec8b350f56462049afc8c14aa09c1d7e5634",
+      "bytes": 1936
+    },
+    "src/intentia_amoris/security/middleware.py": {
+      "sha256": "24767b0bf353706a13a7646ee92691bf9fc7c2e6bec1865a58b8d8845cf5cd4f",
+      "bytes": 1343
+    },
+    "src/intentia_amoris/security/rate_limit.py": {
+      "sha256": "79be982a768d48415308d3269bd4ddcb8bcfbd3c1dbdf3116bdfce36f12589ab",
+      "bytes": 1242
+    },
+    "src/intentia_amoris/security/redaction.py": {
+      "sha256": "de2afa6f35aca8006def64b3e29f24b7a1c4760a794b63e6809d072f35ac0b74",
+      "bytes": 1760
+    },
+    "src/intentia_amoris/security/validation.py": {
+      "sha256": "eef67bcee6cd36551a317a376b10f103356e80fa87d08cae6c10c71d2bc00fd3",
+      "bytes": 2773
+    },
+    "src/intentia_amoris/telemetry/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "src/intentia_amoris/telemetry/adapters.py": {
+      "sha256": "3cb15b7de9c246da8204f3e61f0b0c05c5a42a003920acd966469c3c1078d0b5",
+      "bytes": 1734
+    },
+    "seeds/golden/reality_pressure.md": {
+      "sha256": "d6380c94499e10028bf3a5929cbd050d0c9e670c6807c315e3b42973640955d4",
+      "bytes": 590
+    },
+    "seeds/golden/secure_closeness.md": {
+      "sha256": "fa06391a705293f4a8383c1dd8f56da2285fcef13f2ced934349525684c2ac15",
+      "bytes": 561
+    },
+    "seeds/people/dasha.md": {
+      "sha256": "a91add08ac5b3f23743d11126a98168b016af41528116a52bbb6d0c477772df5",
+      "bytes": 1885
+    },
+    "seeds/people/yaroslav.md": {
+      "sha256": "01cdb1e0fec88fb644d93161e671049af6a4afd446f294e4c4a0e6bec201a08b",
+      "bytes": 2133
+    },
+    "seeds/relationship/constitution.md": {
+      "sha256": "1105a34b9314030b958f95f07e796f9e670b52bd8251b342818f5dd9cd36bf24",
+      "bytes": 1892
+    },
+    "seeds/relationship/timeline.md": {
+      "sha256": "fc6a13ff25d3040a5f1eb2b58d9981b20e507aec3d354587c27a4053f02ddd95",
+      "bytes": 928
+    },
+    "infra/migrations/001_initial.sql": {
+      "sha256": "c8d28a2729fade62b248cf2511cfec41cd23af20c10d07fe61451dcf9db683c4",
+      "bytes": 255
+    },
+    "infra/migrations/002_vectors.sql": {
+      "sha256": "787b229eee3eca7c3db1dbc2b0daf41277425dccc644726c21ebc2adeea7def4",
+      "bytes": 385
+    },
+    "docs/security/PRODUCTION_RUNBOOK_V7.md": {
+      "sha256": "766aaab54d77a9f74d274cd49e4c67a7cd3de7a8cbc7b9b1034f625659216bc0",
+      "bytes": 970
+    },
+    "docs/security/TECH_DEBT_REGISTER_V7.md": {
+      "sha256": "e22f433059d456c25cb92cf05b68bb772494bcf6aea5b8cf46fa42227b14ecbb",
+      "bytes": 1004
+    },
+    "docs/security/ZERO_TRUST_HARDENING_V7.md": {
+      "sha256": "cc23cfbe080abe2c20055054fa048e71784f7021abfb998cd1712aa92fa20cfd",
+      "bytes": 1986
+    },
+    "data/private/raw/telegram_export/archive_name.zip": {
+      "sha256": "de89be41ca78399863cb0f9941e80dbc02bed09123bf976a530acc4d33bd309f",
+      "bytes": 136106570
+    },
+    "data/private/raw/telegram_export/messages.html": {
+      "sha256": "3476464eb909163fe2ac60256c73a3479ffaee825433473cc24dc6f0430536c4",
+      "bytes": 551856
+    },
+    "data/derived/telegram/dialogue_signals.json": {
+      "sha256": "3e9d7368873579a0f03395f753082885adb76c08ce166facd99734f1c5aabb37",
+      "bytes": 11334
+    },
+    "data/derived/telegram/falsification_program_v6.json": {
+      "sha256": "62521b23995e46d3ea8cb260b7cbc07a30241e495a0cac11e18e151583f35b39",
+      "bytes": 3160
+    },
+    "data/derived/telegram/living_story_snapshot.json": {
+      "sha256": "2e5d145c45bc085b17a3faa628be7b8e6780b3bfbe0151112739dc0a13224161",
+      "bytes": 2036
+    },
+    "data/derived/telegram/living_story_snapshot.md": {
+      "sha256": "eda3d23f2e8cdf8ac643776ab6d59e7bf9c0e8e58b19051feb480b91be4e741d",
+      "bytes": 1829
+    },
+    "data/derived/telegram/media_manifest.json": {
+      "sha256": "efabe3256f5160c640755328fd364b3392cd7e451b2efa78d626f379a4a80590",
+      "bytes": 40063
+    },
+    "data/derived/telegram/messages.jsonl": {
+      "sha256": "ee4273251e59f196b1faf7bed7dc3dcba63725b82e637bfc77528d8ff4fae807",
+      "bytes": 294223
+    },
+    "data/derived/telegram/omega_v6_valuation_report.json": {
+      "sha256": "0cee4cb305f0b18566bac3e99f50b39cea63b6f4e62ecb527d249c91fd2bf4c1",
+      "bytes": 8089
+    },
+    "data/derived/telegram/parousia_dialogue_report.md": {
+      "sha256": "6416b16d206323688253ad069d567588b9f705cbad4e999d3815f36a83419092",
+      "bytes": 770
+    },
+    "data/derived/telegram/parousia_metrics.json": {
+      "sha256": "71a86c774402974e1f2ce56444bb4745ec680a4d9262437ec5af119214106c78",
+      "bytes": 902
+    },
+    "data/derived/telegram/summary.json": {
+      "sha256": "927df25c26e7990c80ad077b599e5ade92abba6cc200ab78963bcadff1d79ca2",
+      "bytes": 764
+    },
+    "data/derived/telegram/intentia_value_report.json": {
+      "sha256": "9beb32319a5289406e49f65d6adc6f756c27ca19ecede42637477e050d61c33e",
+      "bytes": 1592
+    },
+    "contracts/security/MINIMAL_SBOM_V7.json": {
+      "sha256": "7a11b01c76e3fab581807f745deb94b9f9726377b5a70e4f0503c98859fadeb9",
+      "bytes": 1053
+    },
+    "contracts/security/ZERO_TRUST_CONTROL_MAP.json": {
+      "sha256": "03c58477e5e9351a558ddb761b5095e353e111ef3e247fabda7951a1ab19f29f",
+      "bytes": 1324
+    },
+    "contracts/security/ZERO_TRUST_CONTROL_MAP_V8.json": {
+      "sha256": "8c5ec26313970d74c8a0d571e0cb65d391953b1fe99d2bab94ab42741c683af4",
+      "bytes": 1822
+    },
+    "contracts/research/FALSIFICATION_TESTS.json": {
+      "sha256": "c33decf62b1bd369e50e8a736ff50589b318fa912d9711811a99310dd3a661b5",
+      "bytes": 875
+    },
+    ".github/workflows/ci.yml": {
+      "sha256": "74c1fb01b12af20bcdd91008a76f1313318382acda45a6d4f05d3d6db2b44197",
+      "bytes": 529
+    }
+  }
+}

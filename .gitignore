@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+.pytest_cache/
+.ruff_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# Local runtime artifacts
+data/runtime/
+data/tmp/
+
+# Keep derived manifests in the repository when intentionally committed.
+# Raw exports are included in this sandbox zip for Yaroslav, but should not be pushed public.
+# Uncomment if you want git to ignore raw private data:
+# data/private/raw/

@@ -1,0 +1,24 @@
+name: intentia-ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test-and-audit:
+    runs-on: ubuntu-latest
+    env:
+      INTENTIA_ENV: test
+      INTENTIA_ALLOW_INSECURE_DEV: "true"
+      PYTHONPATH: src
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+      - run: python -m compileall -q src
+      - run: pytest -q
+      - run: intentia-product-audit
+      - run: intentia-security-audit
+      - run: intentia-value

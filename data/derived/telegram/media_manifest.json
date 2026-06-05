@@ -1,0 +1,1172 @@
+[
+  {
+    "message_id": "message20748",
+    "timestamp": "28.05.2026 20:48:03 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_1@28-05-2026_20-48-03.jpg",
+    "sha256": "7d7c76a4424a1f637cbe13f1065aa1baaef7af5c4ac8378736740157abbe61c8",
+    "size": 133133
+  },
+  {
+    "message_id": "message20749",
+    "timestamp": "28.05.2026 20:48:03 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_2@28-05-2026_20-48-03.jpg",
+    "sha256": "3a6e9176631ae18ed2dd43f22487c79553328126b8a108c700da4768ba7585ba",
+    "size": 154021
+  },
+  {
+    "message_id": "message20750",
+    "timestamp": "28.05.2026 20:48:09 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_3@28-05-2026_20-48-09.jpg",
+    "sha256": "469054474177b333a613f1986e05963ec32edad173790a46e2741868c74a56c5",
+    "size": 130179
+  },
+  {
+    "message_id": "message20751",
+    "timestamp": "28.05.2026 20:48:09 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_4@28-05-2026_20-48-09.jpg",
+    "sha256": "45be61373f215c3eb8967e7392088d692fd2a0480452438d586ed72f548cd8a1",
+    "size": 188345
+  },
+  {
+    "message_id": "message20752",
+    "timestamp": "28.05.2026 20:48:09 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_5@28-05-2026_20-48-09.jpg",
+    "sha256": "f47da75f8ad6fa7be18d10640fa317a0d3e357a3e7702f0d73173c95bacfea41",
+    "size": 116889
+  },
+  {
+    "message_id": "message20753",
+    "timestamp": "28.05.2026 20:48:09 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_6@28-05-2026_20-48-09.jpg",
+    "sha256": "789b01f60e7e8c4d0f8842a9723228ef18c6aa3c151a52f0ece306eaab597dc5",
+    "size": 122429
+  },
+  {
+    "message_id": "message20754",
+    "timestamp": "28.05.2026 20:54:24 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_7@28-05-2026_20-54-24.jpg",
+    "sha256": "87d4820a708fb9ea73b55950edeb92d302b1f1cbe9527d5dc78e383357820a43",
+    "size": 139773
+  },
+  {
+    "message_id": "message20755",
+    "timestamp": "28.05.2026 20:54:24 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_8@28-05-2026_20-54-24.jpg",
+    "sha256": "b35f60009fcfad19a5f987220a48d49e203dc3637da4cfa76582db238918df77",
+    "size": 134905
+  },
+  {
+    "message_id": "message20756",
+    "timestamp": "28.05.2026 20:54:24 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_9@28-05-2026_20-54-24.jpg",
+    "sha256": "7613f973d5bb46adcd7adeff4338397221a65184f45db99155763130c877806c",
+    "size": 112921
+  },
+  {
+    "message_id": "message20757",
+    "timestamp": "28.05.2026 21:02:14 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_10@28-05-2026_21-02-14.jpg",
+    "sha256": "5c5d4e98c4acc960d5a483103038337fad2d88c2413e827433ef658c0575db39",
+    "size": 124769
+  },
+  {
+    "message_id": "message20760",
+    "timestamp": "28.05.2026 21:10:22 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_11@28-05-2026_21-10-22.jpg",
+    "sha256": "af5929fae8cf79fa81c5a352f17db3c72395f757a3c66a835935ddd51baab01b",
+    "size": 125866
+  },
+  {
+    "message_id": "message20761",
+    "timestamp": "28.05.2026 21:19:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_12@28-05-2026_21-19-06.jpg",
+    "sha256": "43ba60ccf0d439ecd11fe943392e3d1bcf67661359fff1a0a9406814c6566da8",
+    "size": 179437
+  },
+  {
+    "message_id": "message20762",
+    "timestamp": "28.05.2026 21:19:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_13@28-05-2026_21-19-06.jpg",
+    "sha256": "16f7758db80c81db8e69a8079b8c881caf69ca7f415ec3ab8899417d93cec5ed",
+    "size": 206112
+  },
+  {
+    "message_id": "message20763",
+    "timestamp": "28.05.2026 21:19:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_6902.MOV",
+    "sha256": "3896b9fcc418b1b00c5b1d92685144ce4ea48ab01539433f38095fd245a40266",
+    "size": 5810532
+  },
+  {
+    "message_id": "message20764",
+    "timestamp": "28.05.2026 21:19:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_6898.MOV",
+    "sha256": "e949a3044e1a6d9c3cc35e05641eb49a869a840f67142419f2387c2646ee1ed2",
+    "size": 7070692
+  },
+  {
+    "message_id": "message20765",
+    "timestamp": "28.05.2026 21:19:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_6847.MOV",
+    "sha256": "0220fda93f5bd5b98e42eb1092a3ee48bd7de97e91401bc045073e46cd70d4a3",
+    "size": 5127375
+  },
+  {
+    "message_id": "message20766",
+    "timestamp": "28.05.2026 21:19:43 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_6811.MOV",
+    "sha256": "eedbf71eb585493906672cf9d67d686f323ab70c72661456d9fb6bc4508db300",
+    "size": 2847445
+  },
+  {
+    "message_id": "message20768",
+    "timestamp": "28.05.2026 21:22:26 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_14@28-05-2026_21-22-26.jpg",
+    "sha256": "1d20a683025023798c3b97b3ed3de72ad28a3d3d5d1af962ab83b14f4cdb08a2",
+    "size": 342779
+  },
+  {
+    "message_id": "message20771",
+    "timestamp": "28.05.2026 21:24:00 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_6685.MP4",
+    "sha256": "7170399dc6d002461787fec983504eb59be485400728ec0924111863d3d2184d",
+    "size": 2430643
+  },
+  {
+    "message_id": "message20773",
+    "timestamp": "28.05.2026 21:33:10 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_15@28-05-2026_21-33-10.jpg",
+    "sha256": "d91efc2e3819d4d989b05ddc2a27f37245a2c2c2137d11fd72f243d59a2ab919",
+    "size": 161961
+  },
+  {
+    "message_id": "message20785",
+    "timestamp": "28.05.2026 21:57:45 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_16@28-05-2026_21-57-45.jpg",
+    "sha256": "afd5fc4f2f41bed6e3d0522f963c4793a0732cf9165e7650775374d2cfadc2b8",
+    "size": 96722
+  },
+  {
+    "message_id": "message20806",
+    "timestamp": "29.05.2026 09:33:52 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_17@29-05-2026_09-33-52.jpg",
+    "sha256": "44acf9502b0909aa3c6b248aad35ae37595a71f10946805fa9769d156b6ce3d2",
+    "size": 344077
+  },
+  {
+    "message_id": "message20807",
+    "timestamp": "29.05.2026 09:34:41 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_18@29-05-2026_09-34-41.jpg",
+    "sha256": "5747b45e7a6f2d341e087493e9ce4f679d399e91d5cf7e766d1453383e8787b2",
+    "size": 341316
+  },
+  {
+    "message_id": "message20808",
+    "timestamp": "29.05.2026 09:34:41 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_19@29-05-2026_09-34-41.jpg",
+    "sha256": "6994e9c5f13c8d0b720f8acccc5c1fa278b783039525c436151b8bb8543f515c",
+    "size": 297049
+  },
+  {
+    "message_id": "message20852",
+    "timestamp": "29.05.2026 14:33:52 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_20@29-05-2026_14-33-52.jpg",
+    "sha256": "09a9c136688e4981d32e98b1eb5d293bc00eed9ae0c511b86309af22b8147307",
+    "size": 30801
+  },
+  {
+    "message_id": "message20859",
+    "timestamp": "29.05.2026 14:41:52 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_21@29-05-2026_14-41-52.jpg",
+    "sha256": "0da47f1f17151b105ce78827df7cddec88d609bee1ddc78c6f66479be06a2818",
+    "size": 11843
+  },
+  {
+    "message_id": "message20929",
+    "timestamp": "29.05.2026 20:04:52 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "call",
+    "href": "call:Yaroslav:Missed",
+    "sha256": null,
+    "size": null
+  },
+  {
+    "message_id": "message21054",
+    "timestamp": "30.05.2026 04:09:37 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_22@30-05-2026_04-09-37.jpg",
+    "sha256": "0dc14ef62c2f3b5d595cd12dd27811ec2ec31c39299b1bd0cf47741b3eaf2e23",
+    "size": 46017
+  },
+  {
+    "message_id": "message21285",
+    "timestamp": "30.05.2026 12:09:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_23@30-05-2026_12-09-53.jpg",
+    "sha256": "999f8bc016f0db9527e1c4e4b62f895a76bd3c6cb0b9478d347bc25fbb63db33",
+    "size": 225805
+  },
+  {
+    "message_id": "message21286",
+    "timestamp": "30.05.2026 12:09:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_24@30-05-2026_12-09-53.jpg",
+    "sha256": "934e61db9b526874915698fa67047fd5a585fa3f66e87b2c3e0ec485de8035e9",
+    "size": 213052
+  },
+  {
+    "message_id": "message21287",
+    "timestamp": "30.05.2026 12:09:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_25@30-05-2026_12-09-53.jpg",
+    "sha256": "99f6bb26fe50632e377bf6a2e9ffcc82a11b199825cc20f1e56acb624e322822",
+    "size": 191110
+  },
+  {
+    "message_id": "message21288",
+    "timestamp": "30.05.2026 12:09:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_26@30-05-2026_12-09-53.jpg",
+    "sha256": "7220ca86ab15b3f23541b585a758528bc370ac81740a602c8489656e1341aa5c",
+    "size": 255714
+  },
+  {
+    "message_id": "message21289",
+    "timestamp": "30.05.2026 12:09:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_27@30-05-2026_12-09-53.jpg",
+    "sha256": "e232a14471f36da60a65cc28ad844e4a9e09163fbe538601ab7c348c309a1ca1",
+    "size": 317818
+  },
+  {
+    "message_id": "message21291",
+    "timestamp": "30.05.2026 12:16:28 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_28@30-05-2026_12-16-28.jpg",
+    "sha256": "7238d8d613753092d3dc5638ad807a2c439040814a6794f330c3a53b4f7fbb1f",
+    "size": 310128
+  },
+  {
+    "message_id": "message21292",
+    "timestamp": "30.05.2026 12:16:28 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_29@30-05-2026_12-16-28.jpg",
+    "sha256": "c949294f0b1a2a9e011f2e831bbd6211224643243fa5bcc5ae68f86d77811b13",
+    "size": 429330
+  },
+  {
+    "message_id": "message21293",
+    "timestamp": "30.05.2026 12:16:28 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_30@30-05-2026_12-16-28.jpg",
+    "sha256": "06c1363bd65f310c4b90ceb98b9136b7eff76b708cc090d451f7d6bcca40a9c1",
+    "size": 135099
+  },
+  {
+    "message_id": "message21294",
+    "timestamp": "30.05.2026 12:16:28 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_31@30-05-2026_12-16-28.jpg",
+    "sha256": "d77d830ef37fc6329b17a21b84b575beccf2fa4a148ee3d1a048ce443aa6316a",
+    "size": 329570
+  },
+  {
+    "message_id": "message21295",
+    "timestamp": "30.05.2026 12:19:23 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_32@30-05-2026_12-19-23.jpg",
+    "sha256": "a8fec4b74968d4be921fcaa4f95bc512320540e7fba994c4d7bc05258fbc9816",
+    "size": 593288
+  },
+  {
+    "message_id": "message21296",
+    "timestamp": "30.05.2026 12:19:23 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_33@30-05-2026_12-19-23.jpg",
+    "sha256": "850a6011f6ee36b372617c969663eaae0d02e20591f8b7dcf2501986b405b7cc",
+    "size": 524900
+  },
+  {
+    "message_id": "message21297",
+    "timestamp": "30.05.2026 12:21:51 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_17@29-05-2026_09-33-52.jpg",
+    "sha256": "44acf9502b0909aa3c6b248aad35ae37595a71f10946805fa9769d156b6ce3d2",
+    "size": 344077
+  },
+  {
+    "message_id": "message21299",
+    "timestamp": "30.05.2026 12:34:11 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_35@30-05-2026_12-34-11.jpg",
+    "sha256": "8f4e0996c851dc6445f93d1e7a71793e429c1dcd7f75ef89f1b88e3c745b8485",
+    "size": 303104
+  },
+  {
+    "message_id": "message21305",
+    "timestamp": "30.05.2026 13:17:01 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_36@30-05-2026_13-17-01.jpg",
+    "sha256": "c369f74f76557d7312a1b3981736bdf680dbaf23a33779ad21665bc06e52730c",
+    "size": 150032
+  },
+  {
+    "message_id": "message21306",
+    "timestamp": "30.05.2026 13:17:01 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_37@30-05-2026_13-17-01.jpg",
+    "sha256": "05360b392701f3148a0cc85ad3c0bbefe2466fbbd624a08a280ffb62fc1b431e",
+    "size": 171793
+  },
+  {
+    "message_id": "message21307",
+    "timestamp": "30.05.2026 13:17:01 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_38@30-05-2026_13-17-01.jpg",
+    "sha256": "cb765c0bd3309c734ad8ffc940ed56e9ee7b38614904e4a85df45c9d027da199",
+    "size": 212100
+  },
+  {
+    "message_id": "message21308",
+    "timestamp": "30.05.2026 13:17:01 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_39@30-05-2026_13-17-01.jpg",
+    "sha256": "56a29d9cebf7aa2465fbe6b9ed212295e3882f1a1d68a0ab57905c713e13d18c",
+    "size": 218797
+  },
+  {
+    "message_id": "message21318",
+    "timestamp": "30.05.2026 13:54:43 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_40@30-05-2026_13-54-43.jpg",
+    "sha256": "2b037d436ea4c6a3c20005e7f0c2f82fa95b3f8ae124fec2ded6bb5d8028bf2d",
+    "size": 269574
+  },
+  {
+    "message_id": "message21341",
+    "timestamp": "30.05.2026 14:58:04 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7431.MP4",
+    "sha256": "ae6d4d785dcc248b3a16b9f59b38fd370b1a05cad9f38d14f8bafd6480f1c286",
+    "size": 4119572
+  },
+  {
+    "message_id": "message21342",
+    "timestamp": "30.05.2026 15:06:42 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7442.MP4",
+    "sha256": "e6c8b6187a41b9de3c598656deef6b51426fb856e0fcb74bc6e62c6130ca9f31",
+    "size": 3139968
+  },
+  {
+    "message_id": "message21343",
+    "timestamp": "30.05.2026 15:07:33 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7441.MP4",
+    "sha256": "71b33d41aa9c9068c1a233b8005ee254302d7025ccaa435c55f5073c0067628a",
+    "size": 4122638
+  },
+  {
+    "message_id": "message21344",
+    "timestamp": "30.05.2026 15:07:48 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7440.MP4",
+    "sha256": "87c92d82aace9b0bb7fc2aa0bcf3b5a718b74453301d8265cdd9e8338ab9507e",
+    "size": 3128174
+  },
+  {
+    "message_id": "message21345",
+    "timestamp": "30.05.2026 15:08:00 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7439.MP4",
+    "sha256": "231030c1909e1d4029ecde8fd6dfc94406c6a2a0fff7362745a3560d5735fb92",
+    "size": 2547622
+  },
+  {
+    "message_id": "message21346",
+    "timestamp": "30.05.2026 15:08:40 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7438.MP4",
+    "sha256": "8603e0e27197c6a8bfea97fc3708336dbd383fae9bf0fda3cf95d4d90ff8f613",
+    "size": 2340240
+  },
+  {
+    "message_id": "message21347",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7437.MP4",
+    "sha256": "2fcf1692c827831e0f3affe12b97cb20f89e717b9789d475b593c643cf181525",
+    "size": 3105872
+  },
+  {
+    "message_id": "message21348",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7436.MP4",
+    "sha256": "5ff3e0fb705ce7319efa1edd171719423238699c159bb8aa23efb1fc33651b80",
+    "size": 1680490
+  },
+  {
+    "message_id": "message21349",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7435.MP4",
+    "sha256": "7c8bd9c6b8a238a03ad7e2ebe5657d0967b2ec5d6e2362c59de3fec67968ac79",
+    "size": 1709343
+  },
+  {
+    "message_id": "message21350",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7434.MP4",
+    "sha256": "30f9b54c35dafeda25c46dd7cf44e61ad18a7f5d16faf19773116899a912b2c2",
+    "size": 2289358
+  },
+  {
+    "message_id": "message21351",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7433.MP4",
+    "sha256": "ac91ab3f7f29c39351e74c4fb4add2884b02c5a733ac940051c95062fedba1b0",
+    "size": 3120599
+  },
+  {
+    "message_id": "message21352",
+    "timestamp": "30.05.2026 15:09:56 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7432.MP4",
+    "sha256": "14485e9b9600136df60ec456732cf7d5d549f021387a8db0349916f1036174a9",
+    "size": 2121755
+  },
+  {
+    "message_id": "message21353",
+    "timestamp": "30.05.2026 15:13:04 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_41@30-05-2026_15-13-04.jpg",
+    "sha256": "d4e939e5889b9e7017a6a35fdac7470ac0bf325c5ddba425c37afed65c6c61f9",
+    "size": 218056
+  },
+  {
+    "message_id": "message21355",
+    "timestamp": "30.05.2026 15:36:12 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "voice",
+    "href": "voice_messages/audio_1@30-05-2026_15-36-12.ogg",
+    "sha256": "906e463b7b74de68c6f93be06a48f79974b67786dc5bf13428c7fab6936a4445",
+    "size": 22654
+  },
+  {
+    "message_id": "message21363",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_3030.MOV",
+    "sha256": "54fac95ea85c8214e1cf16858d1cc6828dc3286a92af128fb92d639734fb3f47",
+    "size": 3138233
+  },
+  {
+    "message_id": "message21364",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_3026.MOV",
+    "sha256": "3b77bc65167d5d8eb53e8c3a549da9b38e11af6f36165c30ec4453bef80728c5",
+    "size": 3126126
+  },
+  {
+    "message_id": "message21365",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_3023.MOV",
+    "sha256": "5ee9cf35a0e7e61abf747557715494ac4b81d2d0c3c674982a2d46874754fab8",
+    "size": 1908542
+  },
+  {
+    "message_id": "message21366",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_3017.MOV",
+    "sha256": "750838b971abe539c2cd33939e472fb758e747ac2a107a54efaf45f4cdd011e1",
+    "size": 3142296
+  },
+  {
+    "message_id": "message21367",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_3016.MOV",
+    "sha256": "8ece4029a3007b0fbf67d628c208e31ae5748cbd0173395c464aad2326514ba6",
+    "size": 3110283
+  },
+  {
+    "message_id": "message21368",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_42@30-05-2026_16-20-49.jpg",
+    "sha256": "a8f5bfa4c66ba9effee4e025545289e44c70ac6ee451bd85ccb8c6b8dead9b2d",
+    "size": 160332
+  },
+  {
+    "message_id": "message21369",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_43@30-05-2026_16-20-49.jpg",
+    "sha256": "67f1bbb5b63d27664589abf6377cdf1a46eb26eb4815bce1e1f5b35a0e772e52",
+    "size": 267978
+  },
+  {
+    "message_id": "message21370",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_44@30-05-2026_16-20-49.jpg",
+    "sha256": "2e6bc88b5a780684e4fb0837b76c0cfc7ceac3cf888dc6f08345c75cab3f874c",
+    "size": 86261
+  },
+  {
+    "message_id": "message21371",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_45@30-05-2026_16-20-49.jpg",
+    "sha256": "1e2ac80a4ad0a7b2bb79416abdbbac9eabfb836de970ef2d541b0397f40e8d05",
+    "size": 111176
+  },
+  {
+    "message_id": "message21372",
+    "timestamp": "30.05.2026 16:20:49 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_2094.MP4",
+    "sha256": "28918c8ad96fbde616ba59d5214749c4a63c3465448923f6f636daaf08277105",
+    "size": 921672
+  },
+  {
+    "message_id": "message21373",
+    "timestamp": "30.05.2026 16:20:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_46@30-05-2026_16-20-53.jpg",
+    "sha256": "59f06ca21a3ac8be8d562e381dcf5dd4f2de85cca498a47f9f94d923c8bf4662",
+    "size": 192858
+  },
+  {
+    "message_id": "message21374",
+    "timestamp": "30.05.2026 16:20:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_47@30-05-2026_16-20-53.jpg",
+    "sha256": "1fb05820f4ce0631f771ec368294a2e97b84b761213b464e61c955959f250ca8",
+    "size": 243355
+  },
+  {
+    "message_id": "message21375",
+    "timestamp": "30.05.2026 16:20:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_48@30-05-2026_16-20-53.jpg",
+    "sha256": "2f2e61e897018058ad8d8f3c1b985a63fb54e1181af8d3748cf542ddeecc02ff",
+    "size": 297069
+  },
+  {
+    "message_id": "message21376",
+    "timestamp": "30.05.2026 16:20:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_49@30-05-2026_16-20-53.jpg",
+    "sha256": "a534c32fcba5151626d7dc44a0ec2ba575da0dd581e86e02aee48ef615a9ca64",
+    "size": 174422
+  },
+  {
+    "message_id": "message21377",
+    "timestamp": "30.05.2026 16:20:53 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_50@30-05-2026_16-20-53.jpg",
+    "sha256": "aeb9bf94202cd62a5f5686eb6215aa66734c013f5a23b8cdce8a9995e170c015",
+    "size": 406373
+  },
+  {
+    "message_id": "message21378",
+    "timestamp": "30.05.2026 16:22:43 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_51@30-05-2026_16-22-43.jpg",
+    "sha256": "c19dc2fdd3ed92138c38d99ad9d584787fb48c95833210293809174d471739c4",
+    "size": 48314
+  },
+  {
+    "message_id": "message21438",
+    "timestamp": "31.05.2026 04:51:28 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_52@31-05-2026_04-51-28.jpg",
+    "sha256": "e81750ca194c3746a0726a7dec0f2432fd64027d2444fcbec7136d648e7db95a",
+    "size": 234955
+  },
+  {
+    "message_id": "message21457",
+    "timestamp": "31.05.2026 09:13:08 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_2@31-05-2026_09-13-08.ogg",
+    "sha256": "ddb19f8d619fd7d5fac5be73cd0139ccf14585e1e5d9671f3214e1b2c752b9af",
+    "size": 53446
+  },
+  {
+    "message_id": "message21458",
+    "timestamp": "31.05.2026 09:14:23 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_3@31-05-2026_09-14-23.ogg",
+    "sha256": "7c1f1741d9e2e1c6f6b50841485570020d978bf999f7a79573824edee81e0090",
+    "size": 14350
+  },
+  {
+    "message_id": "message21477",
+    "timestamp": "31.05.2026 09:18:53 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_4@31-05-2026_09-18-53.ogg",
+    "sha256": "aee403dac1a2352eb25625ec54fd06a05dd6932ab476eb6cb61562d8993c3257",
+    "size": 32587
+  },
+  {
+    "message_id": "message21494",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_0776.MOV",
+    "sha256": "dfa0159419b2c1ac9d4fd19a8a1854412ebce5adcecd18e4ba944e9b5c0cfee6",
+    "size": 2093684
+  },
+  {
+    "message_id": "message21495",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_53@31-05-2026_10-48-06.jpg",
+    "sha256": "95f651f6a7d01982a82322bb6515494459565613bccc4d9f3a17b62e677a6573",
+    "size": 141249
+  },
+  {
+    "message_id": "message21496",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_54@31-05-2026_10-48-06.jpg",
+    "sha256": "10b372c49896d8e2d9203eac0e6cb33203aa8beb45bd2f51c8bb929358e7190f",
+    "size": 182343
+  },
+  {
+    "message_id": "message21497",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_55@31-05-2026_10-48-06.jpg",
+    "sha256": "8d124fd4928f2b61fee22b360808e66b7091275f01d949454b3d32936e28c366",
+    "size": 177875
+  },
+  {
+    "message_id": "message21498",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_56@31-05-2026_10-48-06.jpg",
+    "sha256": "f96bf1517555fbd91f905c9fd758d33e327aabca6b0e1ffb1f37a2c34fb699aa",
+    "size": 240020
+  },
+  {
+    "message_id": "message21499",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_57@31-05-2026_10-48-06.jpg",
+    "sha256": "6e2a3c82889e526ca7d4001a119420cf033506c612cb81b431d09815bc85bf23",
+    "size": 42815
+  },
+  {
+    "message_id": "message21500",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_58@31-05-2026_10-48-06.jpg",
+    "sha256": "d40e073cd8296a9180e57b6ccc1e674ff15566afc6f50bcf0ae18203ea94f344",
+    "size": 149730
+  },
+  {
+    "message_id": "message21501",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_59@31-05-2026_10-48-06.jpg",
+    "sha256": "593bebc0c5a864b0057f23d64eb0b9d63514ec62ff8cb515fb53ff45ef6ea859",
+    "size": 86336
+  },
+  {
+    "message_id": "message21502",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_60@31-05-2026_10-48-06.jpg",
+    "sha256": "986141761487c238974f900a4b3a29cc35f341abe4b91ba76e2b2c6902a5aea7",
+    "size": 180874
+  },
+  {
+    "message_id": "message21503",
+    "timestamp": "31.05.2026 10:48:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_61@31-05-2026_10-48-06.jpg",
+    "sha256": "7634ee46f7d07ef8e5a2988c6117db0430b5ba727f19d6af3605ed634357e085",
+    "size": 183189
+  },
+  {
+    "message_id": "message21505",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_62@31-05-2026_10-48-25.jpg",
+    "sha256": "f228149baefd88c255cc46b2f01160e0871b7036b25a227d09562dd26cc51398",
+    "size": 344832
+  },
+  {
+    "message_id": "message21506",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_63@31-05-2026_10-48-25.jpg",
+    "sha256": "de8873af89bdc1de07b2b10a8dea028e0a1e9ec3cb6e3c38362b5f8fed1c92a0",
+    "size": 231025
+  },
+  {
+    "message_id": "message21507",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_64@31-05-2026_10-48-25.jpg",
+    "sha256": "3a7c8f005a87c1f7cc2eef793c478aacc9db58c2d19c0c38c324bd4bca344bb9",
+    "size": 117156
+  },
+  {
+    "message_id": "message21508",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_65@31-05-2026_10-48-25.jpg",
+    "sha256": "1631da53aeec6ec9bed15d45b60cd3226ec627a9d80fca5c2a06b5581a166645",
+    "size": 208575
+  },
+  {
+    "message_id": "message21509",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_2511.MOV",
+    "sha256": "976c429a9e93b70b20d04aae81327402cdeb5016efaeb3821ce4d9874823aaf4",
+    "size": 2326517
+  },
+  {
+    "message_id": "message21510",
+    "timestamp": "31.05.2026 10:48:25 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_2956.MOV",
+    "sha256": "dc99ddde807f39529224fbecd7c8c36fdbdb747a20ef9181b903265f47744d28",
+    "size": 6201080
+  },
+  {
+    "message_id": "message21544",
+    "timestamp": "31.05.2026 11:34:21 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_5@31-05-2026_11-34-21.ogg",
+    "sha256": "d4ea36e5811225560c62700bbae0f9edc01f9d8a6efbb05552300ab1709d01e8",
+    "size": 19395
+  },
+  {
+    "message_id": "message21545",
+    "timestamp": "31.05.2026 11:34:28 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_6@31-05-2026_11-34-28.ogg",
+    "sha256": "695a96a55df8f073afaad526aec823eac58290e24391670d46d11dffa653f108",
+    "size": 19368
+  },
+  {
+    "message_id": "message21546",
+    "timestamp": "31.05.2026 11:35:27 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_7@31-05-2026_11-35-27.ogg",
+    "sha256": "48fcb3e0ef37bcff04f42902b554308172f31c4aca585832117a666e2da172ad",
+    "size": 32726
+  },
+  {
+    "message_id": "message21556",
+    "timestamp": "31.05.2026 13:50:48 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_8@31-05-2026_13-50-48.ogg",
+    "sha256": "114a4713fd8c0061ad1755508412b4f5d900a23145d326281777251b64028ef1",
+    "size": 58821
+  },
+  {
+    "message_id": "message21562",
+    "timestamp": "31.05.2026 15:25:06 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "photo",
+    "href": "photos/photo_66@31-05-2026_15-25-06.jpg",
+    "sha256": "23e92ce2fac13e6a1287b8f05ecb86dde1681dc1f3815fea3f2b133997f975b2",
+    "size": 207339
+  },
+  {
+    "message_id": "message21673",
+    "timestamp": "01.06.2026 01:16:56 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_9@01-06-2026_01-16-56.ogg",
+    "sha256": "5beb66c29fe83b3fd680f8468269d35bf5b0b7512cdc8ad3c8a0f9794cc4bce4",
+    "size": 30507
+  },
+  {
+    "message_id": "message21752",
+    "timestamp": "01.06.2026 14:10:10 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "call",
+    "href": "call:Yaroslav:Missed",
+    "sha256": null,
+    "size": null
+  },
+  {
+    "message_id": "message21760",
+    "timestamp": "01.06.2026 15:40:15 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "call",
+    "href": "call:Yaroslav:Missed",
+    "sha256": null,
+    "size": null
+  },
+  {
+    "message_id": "message21886",
+    "timestamp": "01.06.2026 21:23:29 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "voice",
+    "href": "voice_messages/audio_10@01-06-2026_21-23-29.ogg",
+    "sha256": "4e9d26cc5c51bc1dce441975c008b7c08c5f882441135296010bad64f243d64f",
+    "size": 16577
+  },
+  {
+    "message_id": "message21898",
+    "timestamp": "01.06.2026 21:38:21 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7462.MOV",
+    "sha256": "768e0fa0f34974b79e2aea5eb2a987eed87b501e4b8156cd709e8d0a721cca59",
+    "size": 1612136
+  },
+  {
+    "message_id": "message21929",
+    "timestamp": "01.06.2026 22:18:42 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "voice",
+    "href": "voice_messages/audio_11@01-06-2026_22-18-42.ogg",
+    "sha256": "04f94f8445e67ca6c67456ab4414649aa9afe086812ef1d096cba75964f7a681",
+    "size": 11889
+  },
+  {
+    "message_id": "message21930",
+    "timestamp": "01.06.2026 22:18:47 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "voice",
+    "href": "voice_messages/audio_12@01-06-2026_22-18-47.ogg",
+    "sha256": "82eb03f78cacb03e7e385450cc7f426a619ac437b82e75c92f849b33a7068df8",
+    "size": 12793
+  },
+  {
+    "message_id": "message21931",
+    "timestamp": "01.06.2026 22:19:05 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "voice",
+    "href": "voice_messages/audio_13@01-06-2026_22-19-05.ogg",
+    "sha256": "3b6fc390235eb8ca208ec295a9bc2461d55581227ca9051d5532e19157487265",
+    "size": 12653
+  },
+  {
+    "message_id": "message21937",
+    "timestamp": "01.06.2026 22:21:21 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_67@01-06-2026_22-21-21.jpg",
+    "sha256": "f7c6c3a4b00d129a5cddcbd5cc93168d7ba4a01c10ec269674dbd837abd7fd2e",
+    "size": 36178
+  },
+  {
+    "message_id": "message21944",
+    "timestamp": "01.06.2026 22:23:51 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_68@01-06-2026_22-23-51.jpg",
+    "sha256": "9fa6b807590cf784e9a213b8900c736f75fd6b221e36e8626695d70dc9f28c5e",
+    "size": 13285
+  },
+  {
+    "message_id": "message22023",
+    "timestamp": "02.06.2026 10:31:33 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_69@02-06-2026_10-31-33.jpg",
+    "sha256": "7a079e6e0496685a9126e860a8f12a786ead06d3fd4317d1ef03a6f28385023b",
+    "size": 50606
+  },
+  {
+    "message_id": "message22024",
+    "timestamp": "02.06.2026 10:31:33 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_70@02-06-2026_10-31-33.jpg",
+    "sha256": "0a3ce8198b8469e211dabeea8960cf8a7f70c0f9487433c07b9224cdacc46122",
+    "size": 65200
+  },
+  {
+    "message_id": "message22045",
+    "timestamp": "02.06.2026 11:56:16 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7463.MP4",
+    "sha256": "b4b3616df0ed2a1473dcba5106c55893590180ba53ed5b1f919c24722644a0b7",
+    "size": 1139283
+  },
+  {
+    "message_id": "message22049",
+    "timestamp": "02.06.2026 11:57:45 GMT+02:00",
+    "actor": "self",
+    "sender_raw": "Yaroslav",
+    "kind": "photo",
+    "href": "photos/photo_71@02-06-2026_11-57-45.jpg",
+    "sha256": "212fcfd1511826a697bb4bec5ea32b630dec55c5020dac97611cc32cd472b8d0",
+    "size": 83189
+  },
+  {
+    "message_id": "message22055",
+    "timestamp": "02.06.2026 13:55:09 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "video",
+    "href": "video_files/IMG_7466.MP4",
+    "sha256": "e291c536a8865517c0da47bf4b8be5062f1625410519de7c1ec4b52a55d2fdae",
+    "size": 4105640
+  },
+  {
+    "message_id": "message22059",
+    "timestamp": "02.06.2026 19:51:39 GMT+02:00",
+    "actor": "partner",
+    "sender_raw": "Дарія 🍓 Вікторівна 👸",
+    "kind": "voice",
+    "href": "voice_messages/audio_14@02-06-2026_19-51-39.ogg",
+    "sha256": "c5172cd9d7383421f8137708b5f3631729859f28b8a9936e726281e2d1d92246",
+    "size": 15569
+  }
+]

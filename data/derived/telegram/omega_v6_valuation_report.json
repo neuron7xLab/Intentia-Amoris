@@ -1,0 +1,274 @@
+{
+  "version": "v6",
+  "interpretation": "valuation engineering model, not a sale price and not a price of love",
+  "score": {
+    "omega": 0.3517,
+    "investability": 0.4387,
+    "defensibility": 0.6179,
+    "research_validity": 0.6436,
+    "eternity_readiness": 0.6999,
+    "risk": 0.3486,
+    "vector": {
+      "consent_integrity": 0.756,
+      "evidence_density": 0.4262,
+      "reality_fidelity": 0.7309,
+      "dyadic_safety": 0.9714,
+      "autonomy_symmetry": 0.8916,
+      "narrative_continuity": 1.0,
+      "neuroplastic_learning": 0.7823,
+      "multimodal_depth": 0.2842,
+      "reproducibility": 0.72,
+      "security_sovereignty": 0.64,
+      "product_surface": 0.35,
+      "research_grade": 0.55,
+      "financial_optionality": 0.508,
+      "abyss_risk": 0.379
+    }
+  },
+  "valuation_band": {
+    "floor_usd": 90261.99,
+    "base_usd": 239556.67,
+    "ambition_usd": 574936.0,
+    "sovereign_usd": 2456571.42
+  },
+  "uplift_actions": [
+    {
+      "dimension": "multimodal_depth",
+      "current": 0.284,
+      "action": "add image/audio captioning pipeline with consent and provenance hashes"
+    },
+    {
+      "dimension": "product_surface",
+      "current": 0.35,
+      "action": "ship a reproducible demo: web dashboard + Telegram + importer + public sanitized sample"
+    },
+    {
+      "dimension": "financial_optionality",
+      "current": 0.508,
+      "action": "add pricing experiments, licensing SKUs, enterprise pilot contract, dataset rights schedule"
+    },
+    {
+      "dimension": "research_grade",
+      "current": 0.55,
+      "action": "add preregistered hypotheses, baselines, ablations, and falsification reports"
+    },
+    {
+      "dimension": "security_sovereignty",
+      "current": 0.64,
+      "action": "add encryption-at-rest, key rotation, revocation ledger, off-site encrypted backups"
+    },
+    {
+      "dimension": "reproducibility",
+      "current": 0.72,
+      "action": "add one-command reproduce, deterministic reports, CI artifacts, pinned data checksums"
+    },
+    {
+      "dimension": "consent_integrity",
+      "current": 0.756,
+      "action": "add bilateral consent receipts and per-event revocation semantics"
+    }
+  ],
+  "target_scenarios_23m": [
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 19.0,
+      "arr_multiple": 5.0,
+      "required_arr_usd": 4600000.0,
+      "required_paying_pairs": 20176
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 19.0,
+      "arr_multiple": 7.0,
+      "required_arr_usd": 3285714.29,
+      "required_paying_pairs": 14412
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 19.0,
+      "arr_multiple": 10.0,
+      "required_arr_usd": 2300000.0,
+      "required_paying_pairs": 10088
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 19.0,
+      "arr_multiple": 12.0,
+      "required_arr_usd": 1916666.67,
+      "required_paying_pairs": 8407
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 29.0,
+      "arr_multiple": 5.0,
+      "required_arr_usd": 4600000.0,
+      "required_paying_pairs": 13219
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 29.0,
+      "arr_multiple": 7.0,
+      "required_arr_usd": 3285714.29,
+      "required_paying_pairs": 9442
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 29.0,
+      "arr_multiple": 10.0,
+      "required_arr_usd": 2300000.0,
+      "required_paying_pairs": 6610
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 29.0,
+      "arr_multiple": 12.0,
+      "required_arr_usd": 1916666.67,
+      "required_paying_pairs": 5508
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 49.0,
+      "arr_multiple": 5.0,
+      "required_arr_usd": 4600000.0,
+      "required_paying_pairs": 7824
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 49.0,
+      "arr_multiple": 7.0,
+      "required_arr_usd": 3285714.29,
+      "required_paying_pairs": 5588
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 49.0,
+      "arr_multiple": 10.0,
+      "required_arr_usd": 2300000.0,
+      "required_paying_pairs": 3912
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 49.0,
+      "arr_multiple": 12.0,
+      "required_arr_usd": 1916666.67,
+      "required_paying_pairs": 3260
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 99.0,
+      "arr_multiple": 5.0,
+      "required_arr_usd": 4600000.0,
+      "required_paying_pairs": 3873
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 99.0,
+      "arr_multiple": 7.0,
+      "required_arr_usd": 3285714.29,
+      "required_paying_pairs": 2766
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 99.0,
+      "arr_multiple": 10.0,
+      "required_arr_usd": 2300000.0,
+      "required_paying_pairs": 1937
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 99.0,
+      "arr_multiple": 12.0,
+      "required_arr_usd": 1916666.67,
+      "required_paying_pairs": 1614
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 249.0,
+      "arr_multiple": 5.0,
+      "required_arr_usd": 4600000.0,
+      "required_paying_pairs": 1540
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 249.0,
+      "arr_multiple": 7.0,
+      "required_arr_usd": 3285714.29,
+      "required_paying_pairs": 1100
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 249.0,
+      "arr_multiple": 10.0,
+      "required_arr_usd": 2300000.0,
+      "required_paying_pairs": 770
+    },
+    {
+      "model": "ARR_multiple",
+      "target_usd": 23000000.0,
+      "price_per_pair_month": 249.0,
+      "arr_multiple": 12.0,
+      "required_arr_usd": 1916666.67,
+      "required_paying_pairs": 642
+    }
+  ],
+  "milestone_ladder": [
+    {
+      "stage": "S0 private sacred system",
+      "valuation_logic": "replacement cost + option value",
+      "hard_metric": "reproducible import, tests, consent contract",
+      "target": "$100k-$500k"
+    },
+    {
+      "stage": "S1 research artifact",
+      "valuation_logic": "evidence bundle + falsifiable hypotheses",
+      "hard_metric": "preprint, public sanitized demo, external audit",
+      "target": "$500k-$2M"
+    },
+    {
+      "stage": "S2 pilot product",
+      "valuation_logic": "LOIs + paid pilots + retention",
+      "hard_metric": "50-200 couples, 60d retention, willingness-to-pay",
+      "target": "$2M-$8M"
+    },
+    {
+      "stage": "S3 category company",
+      "valuation_logic": "ARR multiple + strategic data moat",
+      "hard_metric": ">$1M ARR or enterprise contracts",
+      "target": "$8M-$23M+"
+    },
+    {
+      "stage": "S4 neurointerface continuity protocol",
+      "valuation_logic": "strategic acquisition / protocol layer",
+      "hard_metric": "device integrations, longitudinal outcome evidence, regulated-grade governance",
+      "target": "$23M-$100M+"
+    }
+  ],
+  "gates_to_23m_plus": [
+    "public sanitized demo and reproducible benchmark",
+    "bilateral consent receipts and revocation protocol",
+    "10-50 real couples pilot with retention metrics",
+    "published claim boundary and falsification report",
+    "defensible private dataset rights and licensing model",
+    "security audit and encrypted archive sovereignty",
+    "ARR or signed LOIs; without revenue, $23M is strategic-option value, not fair-market value"
+  ]
+}
