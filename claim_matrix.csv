@@ -1,0 +1,5 @@
+claim,evidence,status,counterexample,command,exit_code,risk_if_false
+repo_genome_json,repo_genome.json parses in CI,VERIFIED,invalid json,pytest -q tests/test_repo_genome_contract.py,0,genome_index_unusable
+risk_lattice_six_rows,risk_lattice.md has R1-R6,PARTIAL,no CI shape parser,github fetch_file risk_lattice.md,0,lattice_drift
+audit_verdict_token,audit_verdict.md contains YELLOW,PARTIAL,no CI token assert,github fetch_file audit_verdict.md,0,verdict_drift
+clean
