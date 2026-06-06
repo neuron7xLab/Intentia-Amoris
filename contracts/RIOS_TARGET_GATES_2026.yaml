@@ -1,10 +1,17 @@
-version: "2026.optimal"
+version: '2026.optimal'
 system: intentia_amoris
-class: production_research_os
-principles: [privacy_first, consent_first, evidence_first, deterministic_state, fail_closed]
-epics:
-  - id: P0_STATE_SERIALIZATION
-    rank: 1
-    objective: serialize canonical state mutation per pair_id
-    artifacts: [StateMutationService, relationship_state.version, row_locking_read_path, replay_test]
-    gates: [no_direct_state_write, version_increment
+mode: production_research_os
+principles:
+- privacy_first
+- consent_first
+- evidence_first
+- deterministic_state
+- fail_closed
+gates:
+- P0_STATE_SERIALIZATION
+- P0_VECTOR_SEARCH
+- P0_AUDIT_RATE_LIMIT
+- P1_EMBEDDING_BULKHEAD
+- P1_MEDIA_STREAMING
+- P1_IMPORT_CHECKPOINTS
+- P2_REPO_GOVERNANCE
