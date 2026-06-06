@@ -1,6 +1,5 @@
 claim,evidence,status,counterexample,command,exit_code,risk_if_false
-repo_genome_json,pytest parses repo_genome.json,VERIFIED,broken json,pytest -q tests/test_repo_genome_contract.py,0,audit_index_unusable
-ci_make_check,workflow job check passed,VERIFIED,workflow red,make check,0,release_gate_false_green
-compile_gate,GNUmakefile runs compile,VERIFIED,compile skipped,make compile,0,syntax_drift
-unit_tests,GNUmakefile runs pytest,VERIFIED,tests skipped,make test,0,regression_hidden
-risk_lattice_shape
+repo_genome_json,repo_genome.json parsed by pytest,VERIFIED,invalid_json,pytest -q tests/test_repo_genome_contract.py,0,audit_index_unusable
+ci_gate,CI ran make check,VERIFIED,red_ci,make check,0,false_green
+risk_lattice,no contract parser yet,PARTIAL,empty_lattice,cat risk_lattice.md,0,weak_audit_claim
+verdict,no contract parser yet,PARTIAL,empty_verdict,cat audit_verdict.md,0
