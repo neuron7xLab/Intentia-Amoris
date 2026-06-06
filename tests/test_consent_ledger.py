@@ -1,18 +1,20 @@
 from intentia_amoris.consent import ConsentGrant, ConsentLedger, ConsentLevel
 
 
-def test_matching_full_grant_permits_access() -> None:
+def test_matching_request_returns_true() -> None:
     ledger = ConsentLedger([
-        ConsentGrant(
-            subject_id="alpha",
-            recipient_id="beta",
-            stream="hrv",
-            purpose="repair",
-            level=ConsentLevel.FULL,
-        )
+        ConsentGrant("alpha", "beta", "hrv", "repair", ConsentLevel.FULL)
     ])
-
-    decision = ledger.decision(
+    assert ledger.permits(
         subject_id="alpha",
         recipient_id="beta",
         stream="hrv",
+        purpose="repair",
+    ) is True
+
+
+def test_missing_request_returns_false() -> None:
+    ledger = ConsentLedger([])
+    assert ledger.permits(
+        subject_id="alpha",
+        recipient_id
