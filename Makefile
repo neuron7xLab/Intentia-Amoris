@@ -1,4 +1,4 @@
-.PHONY: test audit smoke compile
+.PHONY: test audit smoke compile no-skip no-private-artifacts check
 
 test:
 	INTENTIA_ENV=test pytest -q
@@ -6,11 +6,8 @@ test:
 compile:
 	python -m compileall -q src
 
-audit:
-	intentia-product-audit
-	intentia-security-audit
+no-skip:
+	! grep -R "pytest.mark.skip\|pytest.mark.xfail\|@pytest.mark.skip\|@pytest.mark.xfail" tests
 
-smoke:
-	intentia-value
-
-all: compile test audit smoke
+no-private-artifacts:
+	! find . -path './.git' -prune -o -type f \( -name '*.py' -o -name '*.md' -o -name '*.json' -o -name '*.yml' -o -name '*.yaml'
