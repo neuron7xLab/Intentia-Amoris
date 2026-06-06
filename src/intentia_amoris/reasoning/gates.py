@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import StrEnum
 from time import perf_counter
-from typing import Callable, Mapping
+from typing import Callable
 
 
 class GateId(StrEnum):
@@ -13,4 +13,5 @@ class GateId(StrEnum):
     G4_CONTEXT = "G4_CONTEXT"
     G5_INVARIANTS = "G5_INVARIANTS"
     G6_EVIDENCE = "G6_EVIDENCE"
-    G7_PRIVACY
+    G7_PRIVACY = "G7_PRIVACY"
+    G8_SECURITY
