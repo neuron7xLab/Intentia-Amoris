@@ -1,15 +1,12 @@
 {
-  "schema_version": "riOS-001.attestation.v1",
+  "schema_version": "rios001.v1",
   "status": "partial",
-  "generated_at": "2026-06-06T06:45:00Z",
-  "artifacts": [
-    "src/intentia_amoris/consent/ledger.py",
-    "src/intentia_amoris/memory/retrieval_contract.py",
-    "tests/test_consent_ledger.py",
-    "tests/test_retrieval_contract.py",
-    "GNUmakefile",
-    ".github/workflows/ci.yml"
-  ],
-  "checks": {
-    "consent_ledger_test": "present",
-    "retrieval_hash
+  "date": "2026-06-06",
+  "consent_ledger": "present",
+  "retrieval_contract": "present",
+  "consent_test": "present",
+  "retrieval_test": "present",
+  "make_gate": "GNUmakefile",
+  "ci_gate": "make check",
+  "limitation": "remote CI result not verified in this session"
+}
