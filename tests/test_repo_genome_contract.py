@@ -9,6 +9,3 @@ def test_repo_genome_contract_shape() -> None:
     assert isinstance(data["gates"], int)
     assert data["gates"] > 0
     assert isinstance(data["verdict"], str)
-
-
-def test_risk_lattice_has
