@@ -8,15 +8,16 @@ GATES = tuple(f"G{i}" for i in range(1, 12))
 class GateRow(TypedDict):
     gate: str
     ok: bool
-    reason: str
+    state: str
 
 
 class GateReport(TypedDict):
     ok: bool
     total: int
-    passed: int
+    done: int
     rows: tuple[GateRow, ...]
 
 
-def _call(check: Callable[[], bool] | None) -> tuple[bool, str]:
-    if
+def run_gates(checks: dict[str, Callable[[], bool]]) -> tuple[bool, tuple[tuple[str, bool], ...]]:
+    rows = tuple((gate, bool(checks.get(gate, lambda: False)())) for gate in GATES)
+    return all(ok for _, ok in rows),
