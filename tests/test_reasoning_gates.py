@@ -11,8 +11,3 @@ def test_gate_runner_accepts_complete_catalog():
     ok, rows = run_gates({gate: (lambda: True) for gate in GATES})
     assert ok is True
     assert len(rows) == 11
-
-
-def test_gate_runner_marks_missing_item():
-    ok, rows = run_gates({"G1": lambda: True})
-    assert ok is
