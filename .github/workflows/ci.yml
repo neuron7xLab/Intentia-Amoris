@@ -5,7 +5,7 @@ on:
   pull_request:
 
 jobs:
-  test-and-audit:
+  check:
     runs-on: ubuntu-latest
     env:
       INTENTIA_ENV: test
@@ -17,8 +17,4 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e ".[dev]"
-      - run: python -m compileall -q src
-      - run: pytest -q
-      - run: intentia-product-audit
-      - run: intentia-security-audit
-      - run: intentia-value
+      - run: make check
