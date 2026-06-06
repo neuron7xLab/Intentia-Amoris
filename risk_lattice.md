@@ -1,11 +1,5 @@
 # Risk Lattice
 
-Verdict scope: repository genome snapshot, 2026-06-06.
+R1 state: Evidence -> API routes read/compute/write state. Mechanism -> concurrent writers use stale rows. Blast Radius -> state diverges from event log. Scale Trigger -> overlapping writes per pair. Probe -> concurrent event test. Minimal Fix -> state mutation service with row lock/version.
 
-## R1: state update path
-
-Evidence -> `/events`, `/telemetry`, and `/media` read state, compute new scales, then write state in request handlers.
-Mechanism -> parallel requests can compute from the same older row and overwrite each other.
-Blast Radius -> canonical relationship state can stop matching the accepted event sequence.
-Scale Trigger -> overlapping writes for the same pair id.
-Probe -> concurrent mutation
+R2 retrieval: Evidence -> search_memory loads chunks then Python-sorts. Mechanism -> O(N log N) request
