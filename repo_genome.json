@@ -1,0 +1,7 @@
+{
+  "repo":"neuron7xLab/Intentia-Amoris",
+  "snapshot":"2026-06-06",
+  "entrypoints":["intentia-api","intentia-bot","intentia-report","intentia-smoke","intentia-value","intentia-product-audit","intentia-security-audit"],
+  "package":{"name":"intentia-amoris","version":"1.0.0","python":">=3.11"},
+  "runtime_deps":["fastapi","aiogram","sqlalchemy","asyncpg","aiosqlite","pydantic","numpy","openai","cryptography","httpx","typer"],
+  "api_surface":["GET /health","GET
