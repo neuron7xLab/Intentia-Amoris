@@ -1,24 +1,10 @@
 version: "2026.optimal"
 system: intentia_amoris
 class: production_research_os
-
-principles:
-  - privacy_first
-  - consent_first
-  - evidence_first
-  - local_first
-  - deterministic_state
-  - fail_closed
-  - replay_equivalent
-
+principles: [privacy_first, consent_first, evidence_first, deterministic_state, fail_closed]
 epics:
   - id: P0_STATE_SERIALIZATION
     rank: 1
-    objective: serialize canonical relationship state mutation per pair_id
-    required_artifacts:
-      - StateMutationService
-      - relationship_state.version
-      - row_locking_read_path
-      - deterministic_replay_test
-    gates:
-      - no_direct_state_write
+    objective: serialize canonical state mutation per pair_id
+    artifacts: [StateMutationService, relationship_state.version, row_locking_read_path, replay_test]
+    gates: [no_direct_state_write, version_increment
