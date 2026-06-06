@@ -4,14 +4,21 @@ Verdict: PARTIAL
 
 ## Verified
 
-- repo_genome.json is checked by pytest in the existing CI gate.
-- CI gate uses make check.
-- make check covers compile and pytest through GNUmakefile.
+- repo_genome.json is parsed by an existing pytest gate.
+- CI executes make check.
+- GNUmakefile maps check to compile plus pytest.
 
 ## Partial
 
-- risk_lattice.md is present, but no structural parser exists yet.
-- audit_verdict.md is present, but no token contract exists yet.
-- claim_matrix.csv records VERIFIED and PARTIAL rows.
+- claim_matrix.csv exists and records VERIFIED and PARTIAL rows.
+- risk_lattice.md exists but has no parser gate yet.
+- audit_verdict.md exists but has no value gate yet.
 
-## Not executed in this connector session
+## Not executed
+
+- CLI smoke.
+- API smoke.
+- schema validation.
+- circular import scan.
+- dependency boundary scan.
+- minimal
