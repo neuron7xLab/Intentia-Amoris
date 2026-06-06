@@ -1,0 +1,2 @@
+# Risk Lattice
+R1 state E api_rw M stale_row B drift S burst P parallel F service; R2 retrieval E py_sort M scan B latency S chunks P bench F vector_sql; R3 media E read M ram B rss S uploads P flood F stream; R4 embed E new_client M no_pool B stall S remote P timeout F pool; R5 audit E file_chain M append B fork S workers P parallel F db_sink; R6 import E load_all M long_tx B pool S large_file P restart F batches
