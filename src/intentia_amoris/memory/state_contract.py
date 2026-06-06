@@ -11,3 +11,9 @@ def after(item: int | None) -> int:
 
 def same_seen(*, stored: int | None, seen: int | None) -> bool:
     return value_of(stored) == value_of(seen)
+
+
+def next_value(*, base: int | None, token: int | None) -> int | None:
+    if value_of(base) != value_of(token):
+        return None
+    return
