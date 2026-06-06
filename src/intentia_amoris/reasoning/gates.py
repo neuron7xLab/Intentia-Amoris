@@ -1,17 +1,20 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from enum import StrEnum
 from time import perf_counter
 from typing import Callable
 
+GATES = tuple(f"G{i}" for i in range(1, 12))
 
-class GateId(StrEnum):
-    G1_SYNTAX = "G1_SYNTAX"
-    G2_TYPES = "G2_TYPES"
-    G3_BOUNDS = "G3_BOUNDS"
-    G4_CONTEXT = "G4_CONTEXT"
-    G5_INVARIANTS = "G5_INVARIANTS"
-    G6_EVIDENCE = "G6_EVIDENCE"
-    G7_PRIVACY = "G7_PRIVACY"
-    G8_SECURITY
+
+@dataclass(frozen=True, slots=True)
+class GateResult:
+    gate: str
+    ok: bool
+    ms: float
+    note: str = ""
+
+
+@dataclass(frozen=True, slots=True)
+class GateReport:
+   
