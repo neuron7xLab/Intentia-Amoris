@@ -1,6 +1,1 @@
-{
-  "repo": "neuron7xLab/Intentia-Amoris",
-  "snapshot": "2026-06-06",
-  "entrypoints": ["intentia-api", "intentia-bot", "intentia-report", "intentia-smoke", "intentia-value", "intentia-product-audit", "intentia-security-audit"],
-  "package": {"name": "intentia-amoris", "version": "1.0.0", "python": ">=3.11", "source_root": "src"},
-  "runtime_deps": ["fast
+{"repo":"neuron7xLab/Intentia-Amoris","snapshot":"2026-06-06","entrypoints":7,"api_routes":10,"ci_gate":"make check","hot_paths":["api.events","api.telemetry","api.media","memory.search_memory","embedding.openai","import.telegram"],"genome_status":"indexed"}
