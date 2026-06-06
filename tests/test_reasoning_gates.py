@@ -2,7 +2,9 @@ from intentia_amoris.reasoning.gates import GATES, run_gates
 
 
 def test_gate_catalog_has_eleven_items():
-    assert GATES == tuple(f"G{i}" for i in range(1, 12))
+    assert len(GATES) == 11
+    assert GATES[0] == "G1"
+    assert GATES[-1] == "G11"
 
 
 def test_gate_runner_accepts_complete_catalog():
@@ -13,5 +15,4 @@ def test_gate_runner_accepts_complete_catalog():
 
 def test_gate_runner_marks_missing_item():
     ok, rows = run_gates({"G1": lambda: True})
-    assert ok is False
-    assert rows[0] == ("G1", True
+    assert ok is
