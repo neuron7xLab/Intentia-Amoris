@@ -4,23 +4,19 @@ import ast
 from pathlib import Path
 
 ROOT = Path("src/intentia_amoris")
-PKG = "intentia_amoris"
 
 
-def mod_name(path: Path) -> str:
-    rel = path.relative_to("src").with_suffix("")
-    return ".".join(rel.parts)
+def module_id(path: Path) -> str:
+    return ".".join(path.relative_to("src").with_suffix("").parts)
 
 
-def owned(name: str, modules: set[str]) -> str | None:
-    if name in modules:
-        return name
-    while "." in name:
-        name = name.rsplit(".", 1)[0]
-        if name in modules:
-            return name
+def nearest(name: str, known: set[str]) -> str | None:
+    parts = name.split(".")
+    for size in range(len(parts), 0, -1):
+        item = ".".join(parts[:size])
+        if item in known:
+            return item
     return None
 
 
-def imports(path: Path, modules: set[str]) -> set[str]:
-    tree = ast.parse(path.read_text(encoding="utf-8"))
+def direct_names(path
