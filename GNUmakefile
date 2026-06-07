@@ -1,5 +1,5 @@
 .RECIPEPREFIX := >
-.PHONY: compile test check all
+.PHONY: compile test verify check all
 
 compile:
 >python -m compileall -q src
@@ -7,6 +7,9 @@ compile:
 test:
 >pytest -q
 
-check: compile test
+verify:
+>bash scripts/verify_all.sh
+
+check: verify
 
 all: check
