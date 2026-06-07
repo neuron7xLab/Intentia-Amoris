@@ -2,25 +2,24 @@
 
 ## Changed files
 
-- `scripts/verify_all.sh`
-- `artifacts/evidence_bundle/manifest.json`
-- `docs/EXECUTION_PLAN.md`
-- `docs/ENGINEERING_REPORT.md`
-- `docs/RELEASE_GATE.md`
+- scripts/verify_all.sh
+- artifacts/evidence_bundle/manifest.json
+- docs/EXECUTION_PLAN.md
+- docs/ENGINEERING_REPORT.md
+- docs/RELEASE_GATE.md
 
-## Commands
+## Command
 
-```bash
 bash scripts/verify_all.sh
-```
 
 ## Status
 
-Pending CI execution on pull request.
+Pending pull request CI.
 
 ## Remaining red gates
 
-- CLI smoke not yet enforced
-- API smoke not yet enforced
-- import-cycle scan not yet enforced
-- dependency boundary
+- CLI smoke
+- API smoke
+- import-cycle scan
+- dependency scan
+- benchmark
