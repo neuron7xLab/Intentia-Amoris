@@ -1,5 +1,6 @@
 {
   "bundle": "executor-001",
+  "status": "core_gate_active",
   "commands": [
     "python -m compileall -q src",
     "pytest -q",
@@ -10,5 +11,11 @@
     "claim_matrix.csv",
     "verification_report.md"
   ],
-  "status": "pending_ci"
+  "open_gates": [
+    "cli_smoke",
+    "api_smoke",
+    "cycle_scan",
+    "dependency_scan",
+    "benchmark"
+  ]
 }
