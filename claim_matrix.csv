@@ -1,0 +1,5 @@
+claim,evidence,status,counterexample,command,exit_code,risk_if_false
+repo_genome_json,repo_genome.json parsed by pytest,VERIFIED,invalid_json,pytest -q tests/test_repo_genome_contract.py,0,audit_index_unusable
+ci_gate,CI ran make check,VERIFIED,red_ci,make check,0,false_green
+risk_lattice,no contract parser yet,PARTIAL,empty_lattice,cat risk_lattice.md,0,weak_audit_claim
+verdict,no contract parser yet,PARTIAL,empty_verdict,cat audit_verdict.md,0
