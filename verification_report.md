@@ -1,15 +1,25 @@
 # Verification Report
 
-Verdict: PARTIAL
+Verdict: PARTIAL.
 
-Verified:
-- repo_genome.json is parsed by pytest.
-- CI uses make check.
-- make check runs compile and pytest.
+Confirmed:
+- package install in CI
+- source compilation
+- pytest run
+- repo_genome JSON parsing
 
-Partial:
-- claim_matrix.csv exists with VERIFIED and PARTIAL rows.
-- risk_lattice.md has no parser gate yet.
-- audit_verdict.md has no value gate yet.
+Tracked artifacts:
+- repo_genome.json
+- risk_lattice.md
+- audit_verdict.md
+- claim_matrix.csv
 
-Not run here: CLI smoke, API smoke, schema check, circular import scan, dependency scan, benchmark.
+Still open:
+- CLI smoke
+- API smoke
+- schema check
+- import-cycle check
+- dependency boundary check
+- small benchmark
+
+Inference: the verification spine is live, but the full release standard is not yet complete.
