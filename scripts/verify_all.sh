@@ -3,6 +3,7 @@ set -euo pipefail
 
 python -m compileall -q src
 pytest -q
+python -m intentia_amoris.kernel.value_core >/dev/null
 python - <<'PY'
 import json
 from pathlib import Path
