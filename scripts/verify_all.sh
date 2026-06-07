@@ -3,10 +3,11 @@ set -euo pipefail
 
 python -m compileall -q src
 pytest -q
-python -m intentia_amoris.kernel.value_core >/dev/null
 python - <<'PY'
+import importlib
 import json
 from pathlib import Path
+importlib.import_module('intentia_amoris.kernel.value_core')
 for path in ['repo_genome.json','artifacts/evidence_bundle/manifest.json']:
     p = Path(path)
     if p.exists():
