@@ -4,4 +4,7 @@ import runpy
 
 
 def test_import_graph_check_script_runs() -> None:
-    runpy.run_path("scripts/import_graph_check.py")
+    try:
+        runpy.run_path("scripts/import_graph_check.py")
+    except SystemExit as exc:
+        assert exc.code == 0
