@@ -1,0 +1,14 @@
+{
+  "bundle": "executor-001",
+  "commands": [
+    "python -m compileall -q src",
+    "pytest -q",
+    "bash scripts/verify_all.sh"
+  ],
+  "artifacts": [
+    "repo_genome.json",
+    "claim_matrix.csv",
+    "verification_report.md"
+  ],
+  "status": "pending_ci"
+}
